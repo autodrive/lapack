@@ -1,0 +1,80 @@
+dlamch.f:
+   dlamch:
+Error on line 89 of dlamch.f: Declaration error for digits: unknown intrinsic function
+Error on line 89 of dlamch.f: Declaration error for epsilon: unknown intrinsic function
+Error on line 89 of dlamch.f: Declaration error for huge: unknown intrinsic function
+Error on line 89 of dlamch.f: Declaration error for maxexponent: unknown intrinsic function
+Error on line 89 of dlamch.f: Declaration error for minexponent: unknown intrinsic function
+Error on line 89 of dlamch.f: Declaration error for radix: unknown intrinsic function
+Error on line 89 of dlamch.f: Declaration error for tiny: unknown intrinsic function
+   dlamc3:
+dlamchf77.f:
+   dlamch:
+   dlamc1:
+   dlamc2:
+   dlamc3:
+   dlamc4:
+   dlamc5:
+dlamchtst.f:
+   MAIN:
+dsecnd_EXT_ETIME_.f:
+   dsecnd:
+dsecnd_EXT_ETIME.f:
+   dsecnd:
+dsecnd_INT_CPU_TIME.f:
+   dsecnd:
+Error on line 51 of dsecnd_INT_CPU_TIME.f: Declaration error for cpu_time: unknown intrinsic function
+dsecnd_INT_ETIME.f:
+   dsecnd:
+Error on line 53 of dsecnd_INT_ETIME.f: Declaration error for etime: unknown intrinsic function
+dsecnd_NONE.f:
+   dsecnd:
+dsecndtst.f:
+   MAIN:
+   mysub:
+ilaver.f:
+   ilaver:
+LAPACK_version.f:
+   MAIN:
+lsame.f:
+   lsame:
+lsametst.f:
+   MAIN:
+second_EXT_ETIME_.f:
+   second:
+second_EXT_ETIME.f:
+   second:
+second_INT_CPU_TIME.f:
+   second:
+Error on line 51 of second_INT_CPU_TIME.f: Declaration error for cpu_time: unknown intrinsic function
+second_INT_ETIME.f:
+   second:
+Error on line 53 of second_INT_ETIME.f: Declaration error for etime: unknown intrinsic function
+second_NONE.f:
+   second:
+secondtst.f:
+   MAIN:
+   mysub:
+slamch.f:
+   slamch:
+Error on line 93 of slamch.f: Declaration error for digits: unknown intrinsic function
+Error on line 93 of slamch.f: Declaration error for epsilon: unknown intrinsic function
+Error on line 93 of slamch.f: Declaration error for huge: unknown intrinsic function
+Error on line 93 of slamch.f: Declaration error for maxexponent: unknown intrinsic function
+Error on line 93 of slamch.f: Declaration error for minexponent: unknown intrinsic function
+Error on line 93 of slamch.f: Declaration error for radix: unknown intrinsic function
+Error on line 93 of slamch.f: Declaration error for tiny: unknown intrinsic function
+   slamc3:
+slamchf77.f:
+   slamch:
+   slamc1:
+   slamc2:
+   slamc3:
+   slamc4:
+   slamc5:
+slamchtst.f:
+   MAIN:
+tstiee.f:
+   MAIN tstiee:
+   ilaenv:
+   ieeeck:
