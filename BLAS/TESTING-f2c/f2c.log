@@ -1,0 +1,189 @@
+cblat1.f:
+   MAIN cblat1:
+   header:
+   check1:
+   check2:
+   stest:
+Warning on line 618 of cblat1.f: sdiff declared EXTERNAL but never used.
+   stest1:
+   sdiff:
+   ctest:
+   itest1:
+cblat2.f:
+   MAIN cblat2:
+Warning on line 436 of cblat2.f: sdiff declared EXTERNAL but never used.
+   cchk1:
+   cchk2:
+   cchk3:
+   cchk4:
+   cchk5:
+   cchk6:
+   cchke:
+   cmake:
+   cmvch:
+   lce:
+   lceres:
+   cbeg:
+   sdiff:
+   chkxer:
+   xerbla:
+cblat3.f:
+   MAIN cblat3:
+Warning on line 404 of cblat3.f: sdiff declared EXTERNAL but never used.
+   cchk1:
+   cchk2:
+   cchk3:
+   cchk4:
+   cchk5:
+   cchke:
+   cmake:
+   cmmch:
+   lce:
+   lceres:
+   cbeg:
+   sdiff:
+   chkxer:
+   xerbla:
+dblat1.f:
+   MAIN dblat1:
+   header:
+   check0:
+   check1:
+   check2:
+   check3:
+   stest:
+Warning on line 941 of dblat1.f: sdiff declared EXTERNAL but never used.
+   testdsdot:
+Warning on line 969 of dblat1.f: inconsistent calling sequences for epsilon,
+	arg 1: here real variable, previously double precision variable.
+   stest1:
+   sdiff:
+   itest1:
+dblat2.f:
+   MAIN dblat2:
+Warning on line 429 of dblat2.f: ddiff declared EXTERNAL but never used.
+   dchk1:
+   dchk2:
+   dchk3:
+   dchk4:
+   dchk5:
+   dchk6:
+   dchke:
+   dmake:
+   dmvch:
+   lde:
+   lderes:
+   dbeg:
+   ddiff:
+   chkxer:
+   xerbla:
+dblat3.f:
+   MAIN dblat3:
+Warning on line 394 of dblat3.f: ddiff declared EXTERNAL but never used.
+   dchk1:
+   dchk2:
+   dchk3:
+   dchk4:
+   dchk5:
+   dchke:
+   dmake:
+   dmmch:
+   lde:
+   lderes:
+   dbeg:
+   ddiff:
+   chkxer:
+   xerbla:
+sblat1.f:
+   MAIN sblat1:
+   header:
+   check0:
+   check1:
+   check2:
+   check3:
+   stest:
+Warning on line 945 of sblat1.f: sdiff declared EXTERNAL but never used.
+   stest1:
+   sdiff:
+   itest1:
+sblat2.f:
+   MAIN sblat2:
+Warning on line 429 of sblat2.f: sdiff declared EXTERNAL but never used.
+   schk1:
+   schk2:
+   schk3:
+   schk4:
+   schk5:
+   schk6:
+   schke:
+   smake:
+   smvch:
+   lse:
+   lseres:
+   sbeg:
+   sdiff:
+   chkxer:
+   xerbla:
+sblat3.f:
+   MAIN sblat3:
+Warning on line 394 of sblat3.f: sdiff declared EXTERNAL but never used.
+   schk1:
+   schk2:
+   schk3:
+   schk4:
+   schk5:
+   schke:
+   smake:
+   smmch:
+   lse:
+   lseres:
+   sbeg:
+   sdiff:
+   chkxer:
+   xerbla:
+zblat1.f:
+   MAIN zblat1:
+   header:
+   check1:
+   check2:
+   stest:
+Warning on line 618 of zblat1.f: sdiff declared EXTERNAL but never used.
+   stest1:
+   sdiff:
+   ctest:
+   itest1:
+zblat2.f:
+   MAIN zblat2:
+Warning on line 437 of zblat2.f: ddiff declared EXTERNAL but never used.
+   zchk1:
+   zchk2:
+   zchk3:
+   zchk4:
+   zchk5:
+   zchk6:
+   zchke:
+   zmake:
+   zmvch:
+   lze:
+   lzeres:
+   zbeg:
+   ddiff:
+   chkxer:
+   xerbla:
+zblat3.f:
+   MAIN zblat3:
+Warning on line 406 of zblat3.f: ddiff declared EXTERNAL but never used.
+   zchk1:
+   zchk2:
+   zchk3:
+   zchk4:
+   zchk5:
+   zchke:
+   zmake:
+   zmmch:
+   lze:
+   lzeres:
+   zbeg:
+   ddiff:
+   chkxer:
+   xerbla:
