@@ -1,0 +1,4539 @@
+cbbcsd.f:
+   cbbcsd:
+Error on line 482 of cbbcsd.f: unclassifiable statement (starts "exit")
+Error on line 490 of cbbcsd.f: syntax error
+Error on line 491 of cbbcsd.f: misplaced ENDDO
+Error on line 1025 of cbbcsd.f: syntax error
+Error on line 1026 of cbbcsd.f: misplaced ENDDO
+Error on line 1033 of cbbcsd.f: syntax error
+Error on line 1034 of cbbcsd.f: misplaced ENDDO
+Error on line 1085 of cbbcsd.f: DO loop or BLOCK IF not closed
+cbdsqr.f:
+   cbdsqr:
+cgbbrd.f:
+   cgbbrd:
+cgbcon.f:
+   cgbcon:
+cgbequb.f:
+   cgbequb:
+cgbequ.f:
+   cgbequ:
+cgbrfs.f:
+   cgbrfs:
+cgbrfsx.f:
+   cgbrfsx:
+Error on line 487 of cgbrfsx.f: syntax error
+Error on line 498 of cgbrfsx.f: Declaration error for transfer: unknown intrinsic function
+Error on line 634 of cgbrfsx.f: impossible conversion
+Error on line 636 of cgbrfsx.f: impossible conversion
+Error on line 649 of cgbrfsx.f: syntax error
+Error on line 657 of cgbrfsx.f: syntax error
+Warning on line 763 of cgbrfsx.f: local variable transfer never used
+Warning on line 763 of cgbrfsx.f: cla_gbrfsx_extended declared EXTERNAL but never used.
+cgbsv.f:
+   cgbsv:
+cgbsvx.f:
+   cgbsvx:
+cgbsvxx.f:
+   cgbsvxx:
+cgbtf2.f:
+   cgbtf2:
+cgbtrf.f:
+   cgbtrf:
+cgbtrs.f:
+   cgbtrs:
+cgebak.f:
+   cgebak:
+cgebal.f:
+   cgebal:
+cgebd2.f:
+   cgebd2:
+cgebrd.f:
+   cgebrd:
+cgecon.f:
+   cgecon:
+cgeequb.f:
+   cgeequb:
+cgeequ.f:
+   cgeequ:
+cgees.f:
+   cgees:
+cgeesx.f:
+   cgeesx:
+cgeev.f:
+   cgeev:
+cgeevx.f:
+   cgeevx:
+cgehd2.f:
+   cgehd2:
+cgehrd.f:
+   cgehrd:
+cgejsv.f:
+   cgejsv:
+Error on line 962 of cgejsv.f: wrong number of subscripts on iwork
+Error on line 962 of cgejsv.f: substring of noncharacter iwork
+Error on line 963 of cgejsv.f: wrong number of subscripts on rwork
+Error on line 963 of cgejsv.f: substring of noncharacter rwork
+cgelq2.f:
+   cgelq2:
+cgelq.f:
+   cgelq:
+Warning on line 306 of cgelq.f: lsame declared EXTERNAL but never used.
+cgelqf.f:
+   cgelqf:
+cgelqt3.f:
+Error on line 115 of cgelqt3.f: unclassifiable statement (starts "recursives")
+   MAIN:
+Warning on line 156 of cgelqt3.f: RETURN statement in main or block data
+Warning on line 240 of cgelqt3.f: RETURN statement in main or block data
+Error on line 244 of cgelqt3.f: Declaration error for a: adjustable dimension on non-argument
+Error on line 244 of cgelqt3.f: Declaration error for t: adjustable dimension on non-argument
+Warning on line 244 of cgelqt3.f: local variable n1 never used
+Warning on line 244 of cgelqt3.f: local variable n2 never used
+Error on line 244 of cgelqt3.f: wr_ardecls:  nonconstant array size
+Error on line 244 of cgelqt3.f: wr_ardecls:  nonconstant array size
+cgelqt.f:
+   cgelqt:
+cgelsd.f:
+   cgelsd:
+cgels.f:
+   cgels:
+cgelss.f:
+   cgelss:
+cgelsy.f:
+   cgelsy:
+cgemlq.f:
+   cgemlq:
+cgemlqt.f:
+   cgemlqt:
+Warning on line 272 of cgemlqt.f: local variable q never used
+cgemqr.f:
+   cgemqr:
+cgemqrt.f:
+   cgemqrt:
+cgeql2.f:
+   cgeql2:
+cgeqlf.f:
+   cgeqlf:
+cgeqp3.f:
+   cgeqp3:
+cgeqr2.f:
+   cgeqr2:
+cgeqr2p.f:
+   cgeqr2p:
+cgeqr.f:
+   cgeqr:
+Warning on line 307 of cgeqr.f: lsame declared EXTERNAL but never used.
+cgeqrf.f:
+   cgeqrf:
+cgeqrfp.f:
+   cgeqrfp:
+cgeqrt2.f:
+   cgeqrt2:
+cgeqrt3.f:
+Error on line 133 of cgeqrt3.f: unclassifiable statement (starts "recursives")
+   MAIN:
+Warning on line 173 of cgeqrt3.f: RETURN statement in main or block data
+Warning on line 253 of cgeqrt3.f: RETURN statement in main or block data
+Error on line 257 of cgeqrt3.f: Declaration error for a: adjustable dimension on non-argument
+Error on line 257 of cgeqrt3.f: Declaration error for t: adjustable dimension on non-argument
+Error on line 257 of cgeqrt3.f: wr_ardecls:  nonconstant array size
+Error on line 257 of cgeqrt3.f: wr_ardecls:  nonconstant array size
+cgeqrt.f:
+   cgeqrt:
+cgerfs.f:
+   cgerfs:
+cgerfsx.f:
+   cgerfsx:
+Error on line 461 of cgerfsx.f: syntax error
+Error on line 475 of cgerfsx.f: Declaration error for transfer: unknown intrinsic function
+Error on line 607 of cgerfsx.f: impossible conversion
+Error on line 609 of cgerfsx.f: impossible conversion
+Error on line 621 of cgerfsx.f: syntax error
+Error on line 629 of cgerfsx.f: syntax error
+Warning on line 734 of cgerfsx.f: local variable transfer never used
+Warning on line 734 of cgerfsx.f: cla_gerfsx_extended declared EXTERNAL but never used.
+cgerq2.f:
+   cgerq2:
+cgerqf.f:
+   cgerqf:
+cgesc2.f:
+   cgesc2:
+cgesdd.f:
+   cgesdd:
+cgesvd.f:
+   cgesvd:
+cgesvdx.f:
+   cgesvdx:
+cgesv.f:
+   cgesv:
+cgesvj.f:
+   cgesvj:
+cgesvx.f:
+   cgesvx:
+cgesvxx.f:
+   cgesvxx:
+cgetc2.f:
+   cgetc2:
+cgetf2.f:
+   cgetf2:
+cgetrf2.f:
+Error on line 114 of cgetrf2.f: unclassifiable statement (starts "recursives")
+   MAIN:
+Warning on line 166 of cgetrf2.f: RETURN statement in main or block data
+Warning on line 171 of cgetrf2.f: RETURN statement in main or block data
+Warning on line 270 of cgetrf2.f: RETURN statement in main or block data
+Error on line 274 of cgetrf2.f: Declaration error for a: adjustable dimension on non-argument
+Error on line 274 of cgetrf2.f: Declaration error for ipiv: adjustable dimension on non-argument
+Error on line 274 of cgetrf2.f: wr_ardecls:  nonconstant array size
+cgetrf.f:
+   cgetrf:
+cgetri.f:
+   cgetri:
+cgetrs.f:
+   cgetrs:
+cgetsls.f:
+   cgetsls:
+Warning on line 497 of cgetsls.f: ilaenv declared EXTERNAL but never used.
+cggbak.f:
+   cggbak:
+cggbal.f:
+   cggbal:
+cgges3.f:
+   cgges3:
+cgges.f:
+   cgges:
+cggesx.f:
+   cggesx:
+cggev3.f:
+   cggev3:
+cggev.f:
+   cggev:
+cggevx.f:
+   cggevx:
+cggglm.f:
+   cggglm:
+cgghd3.f:
+   cgghd3:
+cgghrd.f:
+   cgghrd:
+cgglse.f:
+   cgglse:
+cggqrf.f:
+   cggqrf:
+cggrqf.f:
+   cggrqf:
+cggsvd3.f:
+   cggsvd3:
+cggsvp3.f:
+   cggsvp3:
+cgsvj0.f:
+   cgsvj0:
+cgsvj1.f:
+   cgsvj1:
+cgtcon.f:
+   cgtcon:
+cgtrfs.f:
+   cgtrfs:
+cgtsv.f:
+   cgtsv:
+cgtsvx.f:
+   cgtsvx:
+cgttrf.f:
+   cgttrf:
+cgttrs.f:
+   cgttrs:
+cgtts2.f:
+   cgtts2:
+chb2st_kernels.f:
+   chb2st_kernels:
+chbev_2stage.f:
+   chbev_2stage:
+Warning on line 386 of chbev_2stage.f: chetrd_2stage declared EXTERNAL but never used.
+chbevd_2stage.f:
+   chbevd_2stage:
+chbevd.f:
+   chbevd:
+chbev.f:
+   chbev:
+chbevx_2stage.f:
+   chbevx_2stage:
+chbevx.f:
+   chbevx:
+chbgst.f:
+   chbgst:
+chbgvd.f:
+   chbgvd:
+chbgv.f:
+   chbgv:
+chbgvx.f:
+   chbgvx:
+chbtrd.f:
+   chbtrd:
+checon_3.f:
+   checon_3:
+checon.f:
+   checon:
+checon_rook.f:
+   checon_rook:
+cheequb.f:
+   cheequb:
+cheev_2stage.f:
+   cheev_2stage:
+cheevd_2stage.f:
+   cheevd_2stage:
+cheevd.f:
+   cheevd:
+cheev.f:
+   cheev:
+cheevr_2stage.f:
+   cheevr_2stage:
+cheevr.f:
+   cheevr:
+cheevx_2stage.f:
+   cheevx_2stage:
+cheevx.f:
+   cheevx:
+chegs2.f:
+   chegs2:
+chegst.f:
+   chegst:
+chegv_2stage.f:
+   chegv_2stage:
+chegvd.f:
+   chegvd:
+chegv.f:
+   chegv:
+chegvx.f:
+   chegvx:
+cherfs.f:
+   cherfs:
+cherfsx.f:
+   cherfsx:
+Error on line 447 of cherfsx.f: syntax error
+Error on line 461 of cherfsx.f: Declaration error for transfer: unknown intrinsic function
+Error on line 588 of cherfsx.f: impossible conversion
+Error on line 599 of cherfsx.f: syntax error
+Warning on line 700 of cherfsx.f: local variable transfer never used
+Warning on line 700 of cherfsx.f: cla_herfsx_extended declared EXTERNAL but never used.
+chesv_aa.f:
+   chesv_aa:
+Warning on line 254 of chesv_aa.f: chetrf declared EXTERNAL but never used.
+Warning on line 254 of chesv_aa.f: ilaenv declared EXTERNAL but never used.
+Warning on line 254 of chesv_aa.f: chetrs declared EXTERNAL but never used.
+Warning on line 254 of chesv_aa.f: chetrs2 declared EXTERNAL but never used.
+chesv.f:
+   chesv:
+chesv_rk.f:
+   chesv_rk:
+chesv_rook.f:
+   chesv_rook:
+chesvx.f:
+   chesvx:
+chesvxx.f:
+   chesvxx:
+cheswapr.f:
+   cheswapr:
+Warning on line 202 of cheswapr.f: ignoring text after "end".
+chetd2.f:
+   chetd2:
+chetf2.f:
+   chetf2:
+chetf2_rk.f:
+   chetf2_rk:
+chetf2_rook.f:
+   chetf2_rook:
+chetrd_2stage.f:
+   chetrd_2stage:
+chetrd.f:
+   chetrd:
+chetrd_he2hb.f:
+   chetrd_he2hb:
+chetrf_aa.f:
+   chetrf_aa:
+chetrf.f:
+   chetrf:
+chetrf_rk.f:
+   chetrf_rk:
+chetrf_rook.f:
+   chetrf_rook:
+chetri2.f:
+   chetri2:
+chetri2x.f:
+   chetri2x:
+chetri_3.f:
+   chetri_3:
+chetri_3x.f:
+   chetri_3x:
+chetri.f:
+   chetri:
+chetri_rook.f:
+   chetri_rook:
+chetrs2.f:
+   chetrs2:
+chetrs_3.f:
+   chetrs_3:
+chetrs_aa.f:
+   chetrs_aa:
+chetrs.f:
+   chetrs:
+chetrs_rook.f:
+   chetrs_rook:
+chfrk.f:
+   chfrk:
+chgeqz.f:
+   chgeqz:
+chla_transtype.f:
+   chla_transtype:
+chpcon.f:
+   chpcon:
+chpevd.f:
+   chpevd:
+chpev.f:
+   chpev:
+chpevx.f:
+   chpevx:
+chpgst.f:
+   chpgst:
+chpgvd.f:
+   chpgvd:
+chpgv.f:
+   chpgv:
+chpgvx.f:
+   chpgvx:
+chprfs.f:
+   chprfs:
+chpsv.f:
+   chpsv:
+chpsvx.f:
+   chpsvx:
+chptrd.f:
+   chptrd:
+chptrf.f:
+   chptrf:
+chptri.f:
+   chptri:
+chptrs.f:
+   chptrs:
+chsein.f:
+   chsein:
+chseqr.f:
+   chseqr:
+clabrd.f:
+   clabrd:
+clacgv.f:
+   clacgv:
+clacn2.f:
+   clacn2:
+clacon.f:
+   clacon:
+clacp2.f:
+   clacp2:
+clacpy.f:
+   clacpy:
+clacrm.f:
+   clacrm:
+clacrt.f:
+   clacrt:
+cladiv.f:
+   cladiv:
+claed0.f:
+   claed0:
+claed7.f:
+   claed7:
+claed8.f:
+   claed8:
+claein.f:
+   claein:
+claesy.f:
+   claesy:
+claev2.f:
+   claev2:
+clag2z.f:
+   clag2z:
+cla_gbamv.f:
+   cla_gbamv:
+cla_gbrcond_c.f:
+   cla_gbrcond_c:
+cla_gbrcond_x.f:
+   cla_gbrcond_x:
+cla_gbrfsx_extended.f:
+   cla_gbrfsx_extended:
+cla_gbrpvgrw.f:
+   cla_gbrpvgrw:
+cla_geamv.f:
+   cla_geamv:
+cla_gercond_c.f:
+   cla_gercond_c:
+cla_gercond_x.f:
+   cla_gercond_x:
+cla_gerfsx_extended.f:
+   cla_gerfsx_extended:
+cla_gerpvgrw.f:
+   cla_gerpvgrw:
+clags2.f:
+   clags2:
+clagtm.f:
+   clagtm:
+cla_heamv.f:
+   cla_heamv:
+clahef_aa.f:
+   clahef_aa:
+Warning on line 520 of clahef_aa.f: xerbla declared EXTERNAL but never used.
+Warning on line 520 of clahef_aa.f: ilaenv declared EXTERNAL but never used.
+clahef.f:
+   clahef:
+clahef_rk.f:
+   clahef_rk:
+clahef_rook.f:
+   clahef_rook:
+cla_hercond_c.f:
+   cla_hercond_c:
+cla_hercond_x.f:
+   cla_hercond_x:
+cla_herfsx_extended.f:
+   cla_herfsx_extended:
+cla_herpvgrw.f:
+   cla_herpvgrw:
+clahqr.f:
+   clahqr:
+clahr2.f:
+   clahr2:
+claic1.f:
+   claic1:
+cla_lin_berr.f:
+   cla_lin_berr:
+clals0.f:
+   clals0:
+clalsa.f:
+   clalsa:
+clalsd.f:
+   clalsd:
+clamswlq.f:
+   clamswlq:
+clamtsqr.f:
+   clamtsqr:
+clangb.f:
+   clangb:
+clange.f:
+   clange:
+clangt.f:
+   clangt:
+clanhb.f:
+   clanhb:
+clanhe.f:
+   clanhe:
+clanhf.f:
+   clanhf:
+clanhp.f:
+   clanhp:
+clanhs.f:
+   clanhs:
+clanht.f:
+   clanht:
+clansb.f:
+   clansb:
+clansp.f:
+   clansp:
+clansy.f:
+   clansy:
+clantb.f:
+   clantb:
+clantp.f:
+   clantp:
+clantr.f:
+   clantr:
+clapll.f:
+   clapll:
+clapmr.f:
+   clapmr:
+clapmt.f:
+   clapmt:
+cla_porcond_c.f:
+   cla_porcond_c:
+cla_porcond_x.f:
+   cla_porcond_x:
+cla_porfsx_extended.f:
+   cla_porfsx_extended:
+cla_porpvgrw.f:
+   cla_porpvgrw:
+claqgb.f:
+   claqgb:
+claqge.f:
+   claqge:
+claqhb.f:
+   claqhb:
+claqhe.f:
+   claqhe:
+claqhp.f:
+   claqhp:
+claqp2.f:
+   claqp2:
+claqps.f:
+   claqps:
+claqr0.f:
+   claqr0:
+claqr1.f:
+   claqr1:
+claqr2.f:
+   claqr2:
+claqr3.f:
+   claqr3:
+claqr4.f:
+   claqr4:
+claqr5.f:
+   claqr5:
+claqsb.f:
+   claqsb:
+claqsp.f:
+   claqsp:
+claqsy.f:
+   claqsy:
+clar1v.f:
+   clar1v:
+clar2v.f:
+   clar2v:
+clarcm.f:
+   clarcm:
+clarfb.f:
+   clarfb:
+clarf.f:
+   clarf:
+clarfg.f:
+   clarfg:
+clarfgp.f:
+   clarfgp:
+clarft.f:
+   clarft:
+Error on line 221 of clarft.f: syntax error
+Error on line 222 of clarft.f: misplaced ENDDO
+Error on line 236 of clarft.f: nested loops with variable lastv
+Error on line 237 of clarft.f: syntax error
+Error on line 238 of clarft.f: misplaced ENDDO
+Error on line 261 of clarft.f: Execution error endif out of place
+Error on line 263 of clarft.f: Execution error else out of place
+Error on line 265 of clarft.f: nested loops with variable i
+Error on line 280 of clarft.f: nested loops with variable lastv
+Error on line 281 of clarft.f: syntax error
+Error on line 282 of clarft.f: misplaced ENDDO
+Error on line 295 of clarft.f: nested loops with variable lastv
+Error on line 296 of clarft.f: syntax error
+Error on line 297 of clarft.f: misplaced ENDDO
+Error on line 319 of clarft.f: Execution error endif out of place
+Error on line 321 of clarft.f: Execution error endif out of place
+Error on line 328 of clarft.f: DO loop or BLOCK IF not closed
+clarfx.f:
+   clarfx:
+clarfy.f:
+   clarfy:
+clargv.f:
+   clargv:
+clarnv.f:
+   clarnv:
+clarrv.f:
+   clarrv:
+clarscl2.f:
+   clarscl2:
+clartg.f:
+   clartg:
+clartv.f:
+   clartv:
+clarzb.f:
+   clarzb:
+clarz.f:
+   clarz:
+clarzt.f:
+   clarzt:
+clascl2.f:
+   clascl2:
+clascl.f:
+   clascl:
+claset.f:
+   claset:
+clasr.f:
+   clasr:
+classq.f:
+   classq:
+claswlq.f:
+   claswlq:
+Warning on line 262 of claswlq.f: lsame declared EXTERNAL but never used.
+Warning on line 262 of claswlq.f: ilaenv declared EXTERNAL but never used.
+claswp.f:
+   claswp:
+cla_syamv.f:
+   cla_syamv:
+clasyf_aa.f:
+   clasyf_aa:
+Warning on line 512 of clasyf_aa.f: xerbla declared EXTERNAL but never used.
+Warning on line 512 of clasyf_aa.f: ilaenv declared EXTERNAL but never used.
+clasyf.f:
+   clasyf:
+clasyf_rk.f:
+   clasyf_rk:
+clasyf_rook.f:
+   clasyf_rook:
+cla_syrcond_c.f:
+   cla_syrcond_c:
+cla_syrcond_x.f:
+   cla_syrcond_x:
+cla_syrfsx_extended.f:
+   cla_syrfsx_extended:
+cla_syrpvgrw.f:
+   cla_syrpvgrw:
+clatbs.f:
+   clatbs:
+clatdf.f:
+   clatdf:
+clatps.f:
+   clatps:
+clatrd.f:
+   clatrd:
+clatrs.f:
+   clatrs:
+clatrz.f:
+   clatrz:
+clatsqr.f:
+   clatsqr:
+Warning on line 255 of clatsqr.f: lsame declared EXTERNAL but never used.
+clauu2.f:
+   clauu2:
+clauum.f:
+   clauum:
+cla_wwaddw.f:
+   cla_wwaddw:
+cpbcon.f:
+   cpbcon:
+cpbequ.f:
+   cpbequ:
+cpbrfs.f:
+   cpbrfs:
+cpbstf.f:
+   cpbstf:
+cpbsv.f:
+   cpbsv:
+cpbsvx.f:
+   cpbsvx:
+cpbtf2.f:
+   cpbtf2:
+cpbtrf.f:
+   cpbtrf:
+cpbtrs.f:
+   cpbtrs:
+cpftrf.f:
+   cpftrf:
+cpftri.f:
+   cpftri:
+cpftrs.f:
+   cpftrs:
+cpocon.f:
+   cpocon:
+cpoequb.f:
+   cpoequb:
+cpoequ.f:
+   cpoequ:
+cporfs.f:
+   cporfs:
+cporfsx.f:
+   cporfsx:
+Error on line 439 of cporfsx.f: syntax error
+Error on line 453 of cporfsx.f: Declaration error for transfer: unknown intrinsic function
+Error on line 580 of cporfsx.f: impossible conversion
+Error on line 591 of cporfsx.f: syntax error
+Warning on line 693 of cporfsx.f: local variable transfer never used
+Warning on line 693 of cporfsx.f: cla_porfsx_extended declared EXTERNAL but never used.
+cposv.f:
+   cposv:
+cposvx.f:
+   cposvx:
+cposvxx.f:
+   cposvxx:
+cpotf2.f:
+   cpotf2:
+cpotrf2.f:
+Error on line 107 of cpotrf2.f: unclassifiable statement (starts "recursives")
+   MAIN:
+Warning on line 160 of cpotrf2.f: RETURN statement in main or block data
+Warning on line 165 of cpotrf2.f: RETURN statement in main or block data
+Warning on line 177 of cpotrf2.f: RETURN statement in main or block data
+Warning on line 195 of cpotrf2.f: RETURN statement in main or block data
+Warning on line 216 of cpotrf2.f: RETURN statement in main or block data
+Warning on line 237 of cpotrf2.f: RETURN statement in main or block data
+Warning on line 242 of cpotrf2.f: RETURN statement in main or block data
+Error on line 246 of cpotrf2.f: Declaration error for a: adjustable dimension on non-argument
+Error on line 246 of cpotrf2.f: wr_ardecls:  nonconstant array size
+cpotrf.f:
+   cpotrf:
+cpotri.f:
+   cpotri:
+cpotrs.f:
+   cpotrs:
+cppcon.f:
+   cppcon:
+cppequ.f:
+   cppequ:
+cpprfs.f:
+   cpprfs:
+cppsv.f:
+   cppsv:
+cppsvx.f:
+   cppsvx:
+cpptrf.f:
+   cpptrf:
+cpptri.f:
+   cpptri:
+cpptrs.f:
+   cpptrs:
+cpstf2.f:
+   cpstf2:
+Error on line 220 of cpstf2.f: substring of noncharacter work
+Error on line 264 of cpstf2.f: substring of noncharacter work
+Error on line 336 of cpstf2.f: substring of noncharacter work
+cpstrf.f:
+   cpstrf:
+Error on line 186 of cpstrf.f: Declaration error for maxloc: unknown intrinsic function
+Error on line 235 of cpstrf.f: substring of noncharacter work
+Error on line 287 of cpstrf.f: substring of noncharacter work
+Error on line 382 of cpstrf.f: substring of noncharacter work
+cptcon.f:
+   cptcon:
+cpteqr.f:
+   cpteqr:
+cptrfs.f:
+   cptrfs:
+cptsv.f:
+   cptsv:
+cptsvx.f:
+   cptsvx:
+cpttrf.f:
+   cpttrf:
+cpttrs.f:
+   cpttrs:
+cptts2.f:
+   cptts2:
+crot.f:
+   crot:
+cspcon.f:
+   cspcon:
+cspmv.f:
+   cspmv:
+cspr.f:
+   cspr:
+csprfs.f:
+   csprfs:
+cspsv.f:
+   cspsv:
+cspsvx.f:
+   cspsvx:
+csptrf.f:
+   csptrf:
+csptri.f:
+   csptri:
+csptrs.f:
+   csptrs:
+csrscl.f:
+   csrscl:
+cstedc.f:
+   cstedc:
+cstegr.f:
+   cstegr:
+cstein.f:
+   cstein:
+cstemr.f:
+   cstemr:
+csteqr.f:
+   csteqr:
+csycon_3.f:
+   csycon_3:
+csycon.f:
+   csycon:
+csycon_rook.f:
+   csycon_rook:
+csyconv.f:
+   csyconv:
+csyconvf.f:
+   csyconvf:
+csyconvf_rook.f:
+   csyconvf_rook:
+csyequb.f:
+   csyequb:
+csymv.f:
+   csymv:
+csyr.f:
+   csyr:
+csyrfs.f:
+   csyrfs:
+csyrfsx.f:
+   csyrfsx:
+Error on line 449 of csyrfsx.f: syntax error
+Error on line 463 of csyrfsx.f: Declaration error for transfer: unknown intrinsic function
+Error on line 590 of csyrfsx.f: impossible conversion
+Error on line 601 of csyrfsx.f: syntax error
+Warning on line 703 of csyrfsx.f: local variable transfer never used
+Warning on line 703 of csyrfsx.f: cla_syrfsx_extended declared EXTERNAL but never used.
+csysv_aa.f:
+   csysv_aa:
+Warning on line 254 of csysv_aa.f: ilaenv declared EXTERNAL but never used.
+Warning on line 254 of csysv_aa.f: csytrf declared EXTERNAL but never used.
+Warning on line 254 of csysv_aa.f: csytrs declared EXTERNAL but never used.
+Warning on line 254 of csysv_aa.f: csytrs2 declared EXTERNAL but never used.
+csysv.f:
+   csysv:
+csysv_rk.f:
+   csysv_rk:
+csysv_rook.f:
+   csysv_rook:
+csysvx.f:
+   csysvx:
+csysvxx.f:
+   csysvxx:
+csyswapr.f:
+   csyswapr:
+Warning on line 192 of csyswapr.f: ignoring text after "end".
+csytf2.f:
+   csytf2:
+csytf2_rk.f:
+   csytf2_rk:
+csytf2_rook.f:
+   csytf2_rook:
+csytrf_aa.f:
+   csytrf_aa:
+csytrf.f:
+   csytrf:
+csytrf_rk.f:
+   csytrf_rk:
+csytrf_rook.f:
+   csytrf_rook:
+csytri2.f:
+   csytri2:
+csytri2x.f:
+   csytri2x:
+csytri_3.f:
+   csytri_3:
+csytri_3x.f:
+   csytri_3x:
+csytri.f:
+   csytri:
+csytri_rook.f:
+   csytri_rook:
+csytrs2.f:
+   csytrs2:
+csytrs_3.f:
+   csytrs_3:
+csytrs_aa.f:
+   csytrs_aa:
+csytrs.f:
+   csytrs:
+csytrs_rook.f:
+   csytrs_rook:
+ctbcon.f:
+   ctbcon:
+ctbrfs.f:
+   ctbrfs:
+ctbtrs.f:
+   ctbtrs:
+ctfsm.f:
+   ctfsm:
+ctftri.f:
+   ctftri:
+ctfttp.f:
+   ctfttp:
+ctfttr.f:
+   ctfttr:
+ctgevc.f:
+   ctgevc:
+ctgex2.f:
+   ctgex2:
+ctgexc.f:
+   ctgexc:
+ctgsen.f:
+   ctgsen:
+ctgsja.f:
+   ctgsja:
+ctgsna.f:
+   ctgsna:
+ctgsy2.f:
+   ctgsy2:
+ctgsyl.f:
+   ctgsyl:
+ctpcon.f:
+   ctpcon:
+ctplqt2.f:
+   ctplqt2:
+ctplqt.f:
+   ctplqt:
+ctpmlqt.f:
+   ctpmlqt:
+ctpmqrt.f:
+   ctpmqrt:
+ctpqrt2.f:
+   ctpqrt2:
+ctpqrt.f:
+   ctpqrt:
+ctprfb.f:
+   ctprfb:
+ctprfs.f:
+   ctprfs:
+ctptri.f:
+   ctptri:
+ctptrs.f:
+   ctptrs:
+ctpttf.f:
+   ctpttf:
+ctpttr.f:
+   ctpttr:
+ctrcon.f:
+   ctrcon:
+ctrevc3.f:
+   ctrevc3:
+ctrevc.f:
+   ctrevc:
+ctrexc.f:
+   ctrexc:
+ctrrfs.f:
+   ctrrfs:
+ctrsen.f:
+   ctrsen:
+ctrsna.f:
+   ctrsna:
+ctrsyl.f:
+   ctrsyl:
+ctrti2.f:
+   ctrti2:
+ctrtri.f:
+   ctrtri:
+ctrtrs.f:
+   ctrtrs:
+ctrttf.f:
+   ctrttf:
+ctrttp.f:
+   ctrttp:
+ctzrzf.f:
+   ctzrzf:
+cunbdb1.f:
+   cunbdb1:
+cunbdb2.f:
+   cunbdb2:
+cunbdb3.f:
+   cunbdb3:
+cunbdb4.f:
+   cunbdb4:
+cunbdb5.f:
+   cunbdb5:
+cunbdb6.f:
+   cunbdb6:
+cunbdb.f:
+   cunbdb:
+cuncsd2by1.f:
+   cuncsd2by1:
+cuncsd.f:
+Error on line 316 of cuncsd.f: unclassifiable statement (starts "recursives")
+   MAIN:
+Warning on line 439 of cuncsd.f: RETURN statement in main or block data
+Warning on line 455 of cuncsd.f: RETURN statement in main or block data
+Warning on line 530 of cuncsd.f: RETURN statement in main or block data
+Warning on line 532 of cuncsd.f: RETURN statement in main or block data
+Warning on line 653 of cuncsd.f: RETURN statement in main or block data
+Error on line 657 of cuncsd.f: Declaration error for u1: adjustable dimension on non-argument
+Error on line 657 of cuncsd.f: Declaration error for u2: adjustable dimension on non-argument
+Error on line 657 of cuncsd.f: Declaration error for x11: adjustable dimension on non-argument
+Error on line 657 of cuncsd.f: Declaration error for x12: adjustable dimension on non-argument
+Error on line 657 of cuncsd.f: Declaration error for x21: adjustable dimension on non-argument
+Error on line 657 of cuncsd.f: Declaration error for x22: adjustable dimension on non-argument
+Error on line 657 of cuncsd.f: Declaration error for v1t: adjustable dimension on non-argument
+Error on line 657 of cuncsd.f: Declaration error for v2t: adjustable dimension on non-argument
+Error on line 657 of cuncsd.f: Declaration error for work: adjustable dimension on non-argument
+Error on line 657 of cuncsd.f: Declaration error for theta: adjustable dimension on non-argument
+Error on line 657 of cuncsd.f: Declaration error for iwork: adjustable dimension on non-argument
+Error on line 657 of cuncsd.f: Declaration error for rwork: adjustable dimension on non-argument
+Error on line 657 of cuncsd.f: wr_ardecls:  nonconstant array size
+Error on line 657 of cuncsd.f: wr_ardecls:  nonconstant array size
+Error on line 657 of cuncsd.f: wr_ardecls:  nonconstant array size
+Error on line 657 of cuncsd.f: wr_ardecls:  nonconstant array size
+Error on line 657 of cuncsd.f: wr_ardecls:  nonconstant array size
+Error on line 657 of cuncsd.f: wr_ardecls:  nonconstant array size
+Error on line 657 of cuncsd.f: wr_ardecls:  nonconstant array size
+Error on line 657 of cuncsd.f: wr_ardecls:  nonconstant array size
+cung2l.f:
+   cung2l:
+cung2r.f:
+   cung2r:
+cungbr.f:
+   cungbr:
+cunghr.f:
+   cunghr:
+cungl2.f:
+   cungl2:
+cunglq.f:
+   cunglq:
+cungql.f:
+   cungql:
+cungqr.f:
+   cungqr:
+cungr2.f:
+   cungr2:
+cungrq.f:
+   cungrq:
+cungtr.f:
+   cungtr:
+cunm22.f:
+   cunm22:
+cunm2l.f:
+   cunm2l:
+cunm2r.f:
+   cunm2r:
+cunmbr.f:
+   cunmbr:
+cunmhr.f:
+   cunmhr:
+cunml2.f:
+   cunml2:
+cunmlq.f:
+   cunmlq:
+cunmql.f:
+   cunmql:
+cunmqr.f:
+   cunmqr:
+cunmr2.f:
+   cunmr2:
+cunmr3.f:
+   cunmr3:
+cunmrq.f:
+   cunmrq:
+cunmrz.f:
+   cunmrz:
+cunmtr.f:
+   cunmtr:
+cupgtr.f:
+   cupgtr:
+cupmtr.f:
+   cupmtr:
+dbbcsd.f:
+   dbbcsd:
+Error on line 482 of dbbcsd.f: unclassifiable statement (starts "exit")
+Error on line 490 of dbbcsd.f: syntax error
+Error on line 491 of dbbcsd.f: misplaced ENDDO
+Error on line 1019 of dbbcsd.f: syntax error
+Error on line 1020 of dbbcsd.f: misplaced ENDDO
+Error on line 1027 of dbbcsd.f: syntax error
+Error on line 1028 of dbbcsd.f: misplaced ENDDO
+Error on line 1079 of dbbcsd.f: DO loop or BLOCK IF not closed
+dbdsdc.f:
+   dbdsdc:
+dbdsqr.f:
+   dbdsqr:
+dbdsvdx.f:
+   dbdsvdx:
+Error on line 370 of dbdsvdx.f: syntax error
+Error on line 371 of dbdsvdx.f: misplaced ENDDO
+Error on line 378 of dbdsvdx.f: nested loops with variable i
+Error on line 419 of dbdsvdx.f: wrong number of subscripts on work
+Error on line 419 of dbdsvdx.f: substring of noncharacter work
+Error on line 443 of dbdsvdx.f: wrong number of subscripts on work
+Error on line 443 of dbdsvdx.f: substring of noncharacter work
+Error on line 451 of dbdsvdx.f: wrong number of subscripts on work
+Error on line 451 of dbdsvdx.f: substring of noncharacter work
+Error on line 490 of dbdsvdx.f: wrong number of subscripts on s
+Error on line 490 of dbdsvdx.f: substring of noncharacter s
+Error on line 492 of dbdsvdx.f: wrong number of subscripts on work
+Error on line 492 of dbdsvdx.f: substring of noncharacter work
+Error on line 603 of dbdsvdx.f: substring of noncharacter s
+Error on line 625 of dbdsvdx.f: syntax error
+Error on line 628 of dbdsvdx.f: syntax error
+Error on line 636 of dbdsvdx.f: nested loops with variable i
+Error on line 659 of dbdsvdx.f: nested loops with variable i
+Error on line 692 of dbdsvdx.f: syntax error
+Error on line 694 of dbdsvdx.f: syntax error
+Error on line 704 of dbdsvdx.f: nested loops with variable i
+Error on line 721 of dbdsvdx.f: syntax error
+Error on line 729 of dbdsvdx.f: syntax error
+Error on line 732 of dbdsvdx.f: syntax error
+Error on line 745 of dbdsvdx.f: nested loops with variable i
+Error on line 766 of dbdsvdx.f: wrong number of subscripts on s
+Error on line 766 of dbdsvdx.f: substring of noncharacter s
+Error on line 767 of dbdsvdx.f: syntax error
+Error on line 776 of dbdsvdx.f: nested loops with variable i
+Error on line 792 of dbdsvdx.f: DO loop or BLOCK IF not closed
+ddisna.f:
+   ddisna:
+dgbbrd.f:
+   dgbbrd:
+dgbcon.f:
+   dgbcon:
+dgbequb.f:
+   dgbequb:
+dgbequ.f:
+   dgbequ:
+dgbrfs.f:
+   dgbrfs:
+dgbrfsx.f:
+   dgbrfsx:
+Error on line 487 of dgbrfsx.f: syntax error
+Error on line 638 of dgbrfsx.f: impossible conversion
+Error on line 640 of dgbrfsx.f: impossible conversion
+dgbsv.f:
+   dgbsv:
+dgbsvx.f:
+   dgbsvx:
+dgbsvxx.f:
+   dgbsvxx:
+dgbtf2.f:
+   dgbtf2:
+dgbtrf.f:
+   dgbtrf:
+dgbtrs.f:
+   dgbtrs:
+dgebak.f:
+   dgebak:
+dgebal.f:
+   dgebal:
+dgebd2.f:
+   dgebd2:
+dgebrd.f:
+   dgebrd:
+dgecon.f:
+   dgecon:
+dgeequb.f:
+   dgeequb:
+dgeequ.f:
+   dgeequ:
+dgees.f:
+   dgees:
+dgeesx.f:
+   dgeesx:
+dgeev.f:
+   dgeev:
+dgeevx.f:
+   dgeevx:
+dgehd2.f:
+   dgehd2:
+dgehrd.f:
+   dgehrd:
+dgejsv.f:
+   dgejsv:
+Error on line 594 of dgejsv.f: wrong number of subscripts on iwork
+Error on line 594 of dgejsv.f: substring of noncharacter iwork
+Error on line 595 of dgejsv.f: wrong number of subscripts on work
+Error on line 595 of dgejsv.f: substring of noncharacter work
+dgelq2.f:
+   dgelq2:
+dgelq.f:
+   dgelq:
+Warning on line 306 of dgelq.f: lsame declared EXTERNAL but never used.
+dgelqf.f:
+   dgelqf:
+dgelqt3.f:
+Error on line 132 of dgelqt3.f: unclassifiable statement (starts "recursives")
+   MAIN:
+Warning on line 172 of dgelqt3.f: RETURN statement in main or block data
+Warning on line 255 of dgelqt3.f: RETURN statement in main or block data
+Error on line 259 of dgelqt3.f: Declaration error for a: adjustable dimension on non-argument
+Error on line 259 of dgelqt3.f: Declaration error for t: adjustable dimension on non-argument
+Warning on line 259 of dgelqt3.f: local variable n1 never used
+Warning on line 259 of dgelqt3.f: local variable n2 never used
+Error on line 259 of dgelqt3.f: wr_ardecls:  nonconstant array size
+Error on line 259 of dgelqt3.f: wr_ardecls:  nonconstant array size
+dgelqt.f:
+   dgelqt:
+Warning on line 210 of dgelqt.f: dgeqrt2 declared EXTERNAL but never used.
+Warning on line 210 of dgelqt.f: dgeqrt3 declared EXTERNAL but never used.
+dgelsd.f:
+   dgelsd:
+dgels.f:
+   dgels:
+dgelss.f:
+   dgelss:
+dgelsy.f:
+   dgelsy:
+dgemlq.f:
+   dgemlq:
+dgemlqt.f:
+   dgemlqt:
+Warning on line 289 of dgemlqt.f: local variable q never used
+dgemqr.f:
+   dgemqr:
+dgemqrt.f:
+   dgemqrt:
+dgeql2.f:
+   dgeql2:
+dgeqlf.f:
+   dgeqlf:
+dgeqp3.f:
+   dgeqp3:
+dgeqr2.f:
+   dgeqr2:
+dgeqr2p.f:
+   dgeqr2p:
+dgeqr.f:
+   dgeqr:
+Warning on line 307 of dgeqr.f: lsame declared EXTERNAL but never used.
+dgeqrf.f:
+   dgeqrf:
+dgeqrfp.f:
+   dgeqrfp:
+dgeqrt2.f:
+   dgeqrt2:
+dgeqrt3.f:
+Error on line 133 of dgeqrt3.f: unclassifiable statement (starts "recursives")
+   MAIN:
+Warning on line 173 of dgeqrt3.f: RETURN statement in main or block data
+Warning on line 253 of dgeqrt3.f: RETURN statement in main or block data
+Error on line 257 of dgeqrt3.f: Declaration error for a: adjustable dimension on non-argument
+Error on line 257 of dgeqrt3.f: Declaration error for t: adjustable dimension on non-argument
+Error on line 257 of dgeqrt3.f: wr_ardecls:  nonconstant array size
+Error on line 257 of dgeqrt3.f: wr_ardecls:  nonconstant array size
+dgeqrt.f:
+   dgeqrt:
+dgerfs.f:
+   dgerfs:
+dgerfsx.f:
+   dgerfsx:
+Error on line 461 of dgerfsx.f: syntax error
+Error on line 607 of dgerfsx.f: impossible conversion
+Error on line 609 of dgerfsx.f: impossible conversion
+dgerq2.f:
+   dgerq2:
+dgerqf.f:
+   dgerqf:
+dgesc2.f:
+   dgesc2:
+dgesdd.f:
+   dgesdd:
+dgesvd.f:
+   dgesvd:
+dgesvdx.f:
+   dgesvdx:
+dgesv.f:
+   dgesv:
+dgesvj.f:
+   dgesvj:
+dgesvx.f:
+   dgesvx:
+dgesvxx.f:
+   dgesvxx:
+dgetc2.f:
+   dgetc2:
+dgetf2.f:
+   dgetf2:
+dgetrf2.f:
+Error on line 114 of dgetrf2.f: unclassifiable statement (starts "recursives")
+   MAIN:
+Warning on line 164 of dgetrf2.f: RETURN statement in main or block data
+Warning on line 169 of dgetrf2.f: RETURN statement in main or block data
+Warning on line 268 of dgetrf2.f: RETURN statement in main or block data
+Error on line 272 of dgetrf2.f: Declaration error for a: adjustable dimension on non-argument
+Error on line 272 of dgetrf2.f: Declaration error for ipiv: adjustable dimension on non-argument
+Error on line 272 of dgetrf2.f: wr_ardecls:  nonconstant array size
+dgetrf.f:
+   dgetrf:
+dgetri.f:
+   dgetri:
+dgetrs.f:
+   dgetrs:
+dgetsls.f:
+   dgetsls:
+Warning on line 494 of dgetsls.f: ilaenv declared EXTERNAL but never used.
+dggbak.f:
+   dggbak:
+dggbal.f:
+   dggbal:
+dgges3.f:
+   dgges3:
+dgges.f:
+   dgges:
+dggesx.f:
+   dggesx:
+dggev3.f:
+   dggev3:
+dggev.f:
+   dggev:
+dggevx.f:
+   dggevx:
+dggglm.f:
+   dggglm:
+dgghd3.f:
+   dgghd3:
+dgghrd.f:
+   dgghrd:
+dgglse.f:
+   dgglse:
+dggqrf.f:
+   dggqrf:
+dggrqf.f:
+   dggrqf:
+dggsvd3.f:
+   dggsvd3:
+dggsvp3.f:
+   dggsvp3:
+dgsvj0.f:
+   dgsvj0:
+dgsvj1.f:
+   dgsvj1:
+dgtcon.f:
+   dgtcon:
+dgtrfs.f:
+   dgtrfs:
+dgtsv.f:
+   dgtsv:
+dgtsvx.f:
+   dgtsvx:
+dgttrf.f:
+   dgttrf:
+dgttrs.f:
+   dgttrs:
+dgtts2.f:
+   dgtts2:
+dhgeqz.f:
+   dhgeqz:
+dhsein.f:
+   dhsein:
+dhseqr.f:
+   dhseqr:
+disnan.f:
+   disnan:
+Error on line 68 of disnan.f: syntax error
+Warning on line 80 of disnan.f: local variable in never used
+Warning on line 80 of disnan.f: local variable intent never used
+Error on line 80 of disnan.f: Declaration error for intent: adjustable dimension on non-argument
+dlabad.f:
+   dlabad:
+dlabrd.f:
+   dlabrd:
+dlacn2.f:
+   dlacn2:
+dlacon.f:
+   dlacon:
+dlacpy.f:
+   dlacpy:
+dladiv.f:
+   dladiv:
+   dladiv1:
+   dladiv2:
+dlae2.f:
+   dlae2:
+dlaebz.f:
+   dlaebz:
+dlaed0.f:
+   dlaed0:
+dlaed1.f:
+   dlaed1:
+dlaed2.f:
+   dlaed2:
+dlaed3.f:
+   dlaed3:
+dlaed4.f:
+   dlaed4:
+dlaed5.f:
+   dlaed5:
+dlaed6.f:
+   dlaed6:
+dlaed7.f:
+   dlaed7:
+dlaed8.f:
+   dlaed8:
+dlaed9.f:
+   dlaed9:
+dlaeda.f:
+   dlaeda:
+dlaein.f:
+   dlaein:
+dlaev2.f:
+   dlaev2:
+dlaexc.f:
+   dlaexc:
+dlag2.f:
+   dlag2:
+dlag2s.f:
+   dlag2s:
+dla_gbamv.f:
+   dla_gbamv:
+dla_gbrcond.f:
+   dla_gbrcond:
+dla_gbrfsx_extended.f:
+   dla_gbrfsx_extended:
+dla_gbrpvgrw.f:
+   dla_gbrpvgrw:
+dla_geamv.f:
+   dla_geamv:
+dla_gercond.f:
+   dla_gercond:
+dla_gerfsx_extended.f:
+   dla_gerfsx_extended:
+dla_gerpvgrw.f:
+   dla_gerpvgrw:
+dlags2.f:
+   dlags2:
+dlagtf.f:
+   dlagtf:
+dlagtm.f:
+   dlagtm:
+dlagts.f:
+   dlagts:
+dlagv2.f:
+   dlagv2:
+dlahqr.f:
+   dlahqr:
+dlahr2.f:
+   dlahr2:
+dlaic1.f:
+   dlaic1:
+dlaisnan.f:
+   dlaisnan:
+Error on line 83 of dlaisnan.f: syntax error
+Warning on line 91 of dlaisnan.f: local variable in never used
+Warning on line 91 of dlaisnan.f: local variable intent never used
+Error on line 91 of dlaisnan.f: Declaration error for intent: adjustable dimension on non-argument
+dla_lin_berr.f:
+   dla_lin_berr:
+dlaln2.f:
+   dlaln2:
+dlals0.f:
+   dlals0:
+dlalsa.f:
+   dlalsa:
+dlalsd.f:
+   dlalsd:
+dlamrg.f:
+   dlamrg:
+dlamswlq.f:
+   dlamswlq:
+dlamtsqr.f:
+   dlamtsqr:
+dlaneg.f:
+   dlaneg:
+dlangb.f:
+   dlangb:
+dlange.f:
+   dlange:
+dlangt.f:
+   dlangt:
+dlanhs.f:
+   dlanhs:
+dlansb.f:
+   dlansb:
+dlansf.f:
+   dlansf:
+dlansp.f:
+   dlansp:
+dlanst.f:
+   dlanst:
+dlansy.f:
+   dlansy:
+dlantb.f:
+   dlantb:
+dlantp.f:
+   dlantp:
+dlantr.f:
+   dlantr:
+dlanv2.f:
+   dlanv2:
+dlapll.f:
+   dlapll:
+dlapmr.f:
+   dlapmr:
+dlapmt.f:
+   dlapmt:
+dla_porcond.f:
+   dla_porcond:
+dla_porfsx_extended.f:
+   dla_porfsx_extended:
+dla_porpvgrw.f:
+   dla_porpvgrw:
+dlapy2.f:
+   dlapy2:
+dlapy3.f:
+   dlapy3:
+dlaqgb.f:
+   dlaqgb:
+dlaqge.f:
+   dlaqge:
+dlaqp2.f:
+   dlaqp2:
+dlaqps.f:
+   dlaqps:
+dlaqr0.f:
+   dlaqr0:
+dlaqr1.f:
+   dlaqr1:
+dlaqr2.f:
+   dlaqr2:
+dlaqr3.f:
+   dlaqr3:
+dlaqr4.f:
+   dlaqr4:
+dlaqr5.f:
+   dlaqr5:
+dlaqsb.f:
+   dlaqsb:
+dlaqsp.f:
+   dlaqsp:
+dlaqsy.f:
+   dlaqsy:
+dlaqtr.f:
+   dlaqtr:
+dlar1v.f:
+   dlar1v:
+dlar2v.f:
+   dlar2v:
+dlarfb.f:
+   dlarfb:
+dlarf.f:
+   dlarf:
+dlarfg.f:
+   dlarfg:
+dlarfgp.f:
+   dlarfgp:
+dlarft.f:
+   dlarft:
+Error on line 220 of dlarft.f: syntax error
+Error on line 221 of dlarft.f: misplaced ENDDO
+Error on line 234 of dlarft.f: nested loops with variable lastv
+Error on line 235 of dlarft.f: syntax error
+Error on line 236 of dlarft.f: misplaced ENDDO
+Error on line 259 of dlarft.f: Execution error endif out of place
+Error on line 261 of dlarft.f: Execution error else out of place
+Error on line 263 of dlarft.f: nested loops with variable i
+Error on line 278 of dlarft.f: nested loops with variable lastv
+Error on line 279 of dlarft.f: syntax error
+Error on line 280 of dlarft.f: misplaced ENDDO
+Error on line 293 of dlarft.f: nested loops with variable lastv
+Error on line 294 of dlarft.f: syntax error
+Error on line 295 of dlarft.f: misplaced ENDDO
+Error on line 317 of dlarft.f: Execution error endif out of place
+Error on line 319 of dlarft.f: Execution error endif out of place
+Error on line 326 of dlarft.f: DO loop or BLOCK IF not closed
+dlarfx.f:
+   dlarfx:
+dlarfy.f:
+   dlarfy:
+dlargv.f:
+   dlargv:
+dlarnv.f:
+   dlarnv:
+dlarra.f:
+   dlarra:
+dlarrb.f:
+   dlarrb:
+dlarrc.f:
+   dlarrc:
+dlarrd.f:
+   dlarrd:
+dlarre.f:
+   dlarre:
+dlarrf.f:
+   dlarrf:
+dlarrj.f:
+   dlarrj:
+dlarrk.f:
+   dlarrk:
+dlarrr.f:
+   dlarrr:
+dlarrv.f:
+   dlarrv:
+dlarscl2.f:
+   dlarscl2:
+dlartg.f:
+   dlartg:
+dlartgp.f:
+   dlartgp:
+dlartgs.f:
+   dlartgs:
+dlartv.f:
+   dlartv:
+dlaruv.f:
+   dlaruv:
+dlarzb.f:
+   dlarzb:
+dlarz.f:
+   dlarz:
+dlarzt.f:
+   dlarzt:
+dlas2.f:
+   dlas2:
+dlascl2.f:
+   dlascl2:
+dlascl.f:
+   dlascl:
+dlasd0.f:
+   dlasd0:
+dlasd1.f:
+   dlasd1:
+dlasd2.f:
+   dlasd2:
+dlasd3.f:
+   dlasd3:
+dlasd4.f:
+   dlasd4:
+dlasd5.f:
+   dlasd5:
+dlasd6.f:
+   dlasd6:
+dlasd7.f:
+   dlasd7:
+dlasd8.f:
+   dlasd8:
+dlasda.f:
+   dlasda:
+dlasdq.f:
+   dlasdq:
+dlasdt.f:
+   dlasdt:
+dlaset.f:
+   dlaset:
+dlasq1.f:
+   dlasq1:
+dlasq2.f:
+   dlasq2:
+dlasq3.f:
+   dlasq3:
+dlasq4.f:
+   dlasq4:
+dlasq5.f:
+   dlasq5:
+dlasq6.f:
+   dlasq6:
+dlasr.f:
+   dlasr:
+dlasrt.f:
+   dlasrt:
+dlassq.f:
+   dlassq:
+dlasv2.f:
+   dlasv2:
+dlaswlq.f:
+   dlaswlq:
+Warning on line 258 of dlaswlq.f: lsame declared EXTERNAL but never used.
+dlaswp.f:
+   dlaswp:
+dlasy2.f:
+   dlasy2:
+dla_syamv.f:
+   dla_syamv:
+dlasyf_aa.f:
+   dlasyf_aa:
+Warning on line 512 of dlasyf_aa.f: xerbla declared EXTERNAL but never used.
+Warning on line 512 of dlasyf_aa.f: ilaenv declared EXTERNAL but never used.
+dlasyf.f:
+   dlasyf:
+dlasyf_rk.f:
+   dlasyf_rk:
+dlasyf_rook.f:
+   dlasyf_rook:
+dla_syrcond.f:
+   dla_syrcond:
+dla_syrfsx_extended.f:
+   dla_syrfsx_extended:
+dla_syrpvgrw.f:
+   dla_syrpvgrw:
+dlat2s.f:
+   dlat2s:
+dlatbs.f:
+   dlatbs:
+dlatdf.f:
+   dlatdf:
+dlatps.f:
+   dlatps:
+dlatrd.f:
+   dlatrd:
+dlatrs.f:
+   dlatrs:
+dlatrz.f:
+   dlatrz:
+dlatsqr.f:
+   dlatsqr:
+Warning on line 256 of dlatsqr.f: lsame declared EXTERNAL but never used.
+dlauu2.f:
+   dlauu2:
+dlauum.f:
+   dlauum:
+dla_wwaddw.f:
+   dla_wwaddw:
+dopgtr.f:
+   dopgtr:
+dopmtr.f:
+   dopmtr:
+dorbdb1.f:
+   dorbdb1:
+dorbdb2.f:
+   dorbdb2:
+dorbdb3.f:
+   dorbdb3:
+dorbdb4.f:
+   dorbdb4:
+dorbdb5.f:
+   dorbdb5:
+dorbdb6.f:
+   dorbdb6:
+dorbdb.f:
+   dorbdb:
+dorcsd2by1.f:
+   dorcsd2by1:
+dorcsd.f:
+Error on line 297 of dorcsd.f: unclassifiable statement (starts "recursives")
+   MAIN:
+Warning on line 414 of dorcsd.f: RETURN statement in main or block data
+Warning on line 430 of dorcsd.f: RETURN statement in main or block data
+Warning on line 493 of dorcsd.f: RETURN statement in main or block data
+Warning on line 495 of dorcsd.f: RETURN statement in main or block data
+Warning on line 611 of dorcsd.f: RETURN statement in main or block data
+Error on line 615 of dorcsd.f: Declaration error for u1: adjustable dimension on non-argument
+Error on line 615 of dorcsd.f: Declaration error for u2: adjustable dimension on non-argument
+Error on line 615 of dorcsd.f: Declaration error for x11: adjustable dimension on non-argument
+Error on line 615 of dorcsd.f: Declaration error for x12: adjustable dimension on non-argument
+Error on line 615 of dorcsd.f: Declaration error for x21: adjustable dimension on non-argument
+Error on line 615 of dorcsd.f: Declaration error for x22: adjustable dimension on non-argument
+Error on line 615 of dorcsd.f: Declaration error for v1t: adjustable dimension on non-argument
+Error on line 615 of dorcsd.f: Declaration error for v2t: adjustable dimension on non-argument
+Error on line 615 of dorcsd.f: Declaration error for work: adjustable dimension on non-argument
+Error on line 615 of dorcsd.f: Declaration error for theta: adjustable dimension on non-argument
+Error on line 615 of dorcsd.f: Declaration error for iwork: adjustable dimension on non-argument
+Error on line 615 of dorcsd.f: wr_ardecls:  nonconstant array size
+Error on line 615 of dorcsd.f: wr_ardecls:  nonconstant array size
+Error on line 615 of dorcsd.f: wr_ardecls:  nonconstant array size
+Error on line 615 of dorcsd.f: wr_ardecls:  nonconstant array size
+Error on line 615 of dorcsd.f: wr_ardecls:  nonconstant array size
+Error on line 615 of dorcsd.f: wr_ardecls:  nonconstant array size
+Error on line 615 of dorcsd.f: wr_ardecls:  nonconstant array size
+Error on line 615 of dorcsd.f: wr_ardecls:  nonconstant array size
+dorg2l.f:
+   dorg2l:
+dorg2r.f:
+   dorg2r:
+dorgbr.f:
+   dorgbr:
+dorghr.f:
+   dorghr:
+dorgl2.f:
+   dorgl2:
+dorglq.f:
+   dorglq:
+dorgql.f:
+   dorgql:
+dorgqr.f:
+   dorgqr:
+dorgr2.f:
+   dorgr2:
+dorgrq.f:
+   dorgrq:
+dorgtr.f:
+   dorgtr:
+dorm22.f:
+   dorm22:
+dorm2l.f:
+   dorm2l:
+dorm2r.f:
+   dorm2r:
+dormbr.f:
+   dormbr:
+dormhr.f:
+   dormhr:
+dorml2.f:
+   dorml2:
+dormlq.f:
+   dormlq:
+dormql.f:
+   dormql:
+dormqr.f:
+   dormqr:
+dormr2.f:
+   dormr2:
+dormr3.f:
+   dormr3:
+dormrq.f:
+   dormrq:
+dormrz.f:
+   dormrz:
+dormtr.f:
+   dormtr:
+dpbcon.f:
+   dpbcon:
+dpbequ.f:
+   dpbequ:
+dpbrfs.f:
+   dpbrfs:
+dpbstf.f:
+   dpbstf:
+dpbsv.f:
+   dpbsv:
+dpbsvx.f:
+   dpbsvx:
+dpbtf2.f:
+   dpbtf2:
+dpbtrf.f:
+   dpbtrf:
+dpbtrs.f:
+   dpbtrs:
+dpftrf.f:
+   dpftrf:
+dpftri.f:
+   dpftri:
+dpftrs.f:
+   dpftrs:
+dpocon.f:
+   dpocon:
+dpoequb.f:
+   dpoequb:
+dpoequ.f:
+   dpoequ:
+dporfs.f:
+   dporfs:
+dporfsx.f:
+   dporfsx:
+Error on line 441 of dporfsx.f: syntax error
+Error on line 582 of dporfsx.f: impossible conversion
+dposv.f:
+   dposv:
+dposvx.f:
+   dposvx:
+dposvxx.f:
+   dposvxx:
+dpotf2.f:
+   dpotf2:
+dpotrf2.f:
+Error on line 107 of dpotrf2.f: unclassifiable statement (starts "recursives")
+   MAIN:
+Warning on line 157 of dpotrf2.f: RETURN statement in main or block data
+Warning on line 162 of dpotrf2.f: RETURN statement in main or block data
+Warning on line 173 of dpotrf2.f: RETURN statement in main or block data
+Warning on line 191 of dpotrf2.f: RETURN statement in main or block data
+Warning on line 210 of dpotrf2.f: RETURN statement in main or block data
+Warning on line 229 of dpotrf2.f: RETURN statement in main or block data
+Warning on line 233 of dpotrf2.f: RETURN statement in main or block data
+Error on line 237 of dpotrf2.f: Declaration error for a: adjustable dimension on non-argument
+Error on line 237 of dpotrf2.f: wr_ardecls:  nonconstant array size
+dpotrf.f:
+   dpotrf:
+dpotri.f:
+   dpotri:
+dpotrs.f:
+   dpotrs:
+dppcon.f:
+   dppcon:
+dppequ.f:
+   dppequ:
+dpprfs.f:
+   dpprfs:
+dppsv.f:
+   dppsv:
+dppsvx.f:
+   dppsvx:
+dpptrf.f:
+   dpptrf:
+dpptri.f:
+   dpptri:
+dpptrs.f:
+   dpptrs:
+dpstf2.f:
+   dpstf2:
+Error on line 179 of dpstf2.f: Declaration error for maxloc: unknown intrinsic function
+Error on line 260 of dpstf2.f: substring of noncharacter work
+Error on line 323 of dpstf2.f: substring of noncharacter work
+dpstrf.f:
+   dpstrf:
+Error on line 181 of dpstrf.f: Declaration error for maxloc: unknown intrinsic function
+Error on line 283 of dpstrf.f: substring of noncharacter work
+Error on line 370 of dpstrf.f: substring of noncharacter work
+dptcon.f:
+   dptcon:
+dpteqr.f:
+   dpteqr:
+dptrfs.f:
+   dptrfs:
+dptsv.f:
+   dptsv:
+dptsvx.f:
+   dptsvx:
+dpttrf.f:
+   dpttrf:
+dpttrs.f:
+   dpttrs:
+dptts2.f:
+   dptts2:
+drscl.f:
+   drscl:
+dsb2st_kernels.f:
+   dsb2st_kernels:
+dsbev_2stage.f:
+   dsbev_2stage:
+dsbevd_2stage.f:
+   dsbevd_2stage:
+dsbevd.f:
+   dsbevd:
+dsbev.f:
+   dsbev:
+dsbevx_2stage.f:
+   dsbevx_2stage:
+dsbevx.f:
+   dsbevx:
+dsbgst.f:
+   dsbgst:
+dsbgvd.f:
+   dsbgvd:
+dsbgv.f:
+   dsbgv:
+dsbgvx.f:
+   dsbgvx:
+dsbtrd.f:
+   dsbtrd:
+dsfrk.f:
+   dsfrk:
+dsgesv.f:
+   dsgesv:
+dspcon.f:
+   dspcon:
+dspevd.f:
+   dspevd:
+dspev.f:
+   dspev:
+dspevx.f:
+   dspevx:
+dspgst.f:
+   dspgst:
+dspgvd.f:
+   dspgvd:
+dspgv.f:
+   dspgv:
+dspgvx.f:
+   dspgvx:
+dsposv.f:
+   dsposv:
+dsprfs.f:
+   dsprfs:
+dspsv.f:
+   dspsv:
+dspsvx.f:
+   dspsvx:
+dsptrd.f:
+   dsptrd:
+dsptrf.f:
+   dsptrf:
+dsptri.f:
+   dsptri:
+dsptrs.f:
+   dsptrs:
+dstebz.f:
+   dstebz:
+dstedc.f:
+   dstedc:
+dstegr.f:
+   dstegr:
+dstein.f:
+   dstein:
+dstemr.f:
+   dstemr:
+dsteqr.f:
+   dsteqr:
+dsterf.f:
+   dsterf:
+dstevd.f:
+   dstevd:
+dstev.f:
+   dstev:
+dstevr.f:
+   dstevr:
+dstevx.f:
+   dstevx:
+dsycon_3.f:
+   dsycon_3:
+dsycon.f:
+   dsycon:
+dsycon_rook.f:
+   dsycon_rook:
+dsyconv.f:
+   dsyconv:
+dsyconvf.f:
+   dsyconvf:
+dsyconvf_rook.f:
+   dsyconvf_rook:
+dsyequb.f:
+   dsyequb:
+dsyev_2stage.f:
+   dsyev_2stage:
+Warning on line 323 of dsyev_2stage.f: statement cannot be reached
+dsyevd_2stage.f:
+   dsyevd_2stage:
+Warning on line 387 of dsyevd_2stage.f: statement cannot be reached
+dsyevd.f:
+   dsyevd:
+dsyev.f:
+   dsyev:
+dsyevr_2stage.f:
+   dsyevr_2stage:
+dsyevr.f:
+   dsyevr:
+dsyevx_2stage.f:
+   dsyevx_2stage:
+dsyevx.f:
+   dsyevx:
+dsygs2.f:
+   dsygs2:
+dsygst.f:
+   dsygst:
+dsygv_2stage.f:
+   dsygv_2stage:
+dsygvd.f:
+   dsygvd:
+dsygv.f:
+   dsygv:
+dsygvx.f:
+   dsygvx:
+dsyrfs.f:
+   dsyrfs:
+dsyrfsx.f:
+   dsyrfsx:
+Error on line 449 of dsyrfsx.f: syntax error
+Error on line 589 of dsyrfsx.f: impossible conversion
+dsysv_aa.f:
+   dsysv_aa:
+Warning on line 256 of dsysv_aa.f: ilaenv declared EXTERNAL but never used.
+Warning on line 256 of dsysv_aa.f: dsytrf declared EXTERNAL but never used.
+Warning on line 256 of dsysv_aa.f: dsytrs declared EXTERNAL but never used.
+Warning on line 256 of dsysv_aa.f: dsytrs2 declared EXTERNAL but never used.
+dsysv.f:
+   dsysv:
+dsysv_rk.f:
+   dsysv_rk:
+dsysv_rook.f:
+   dsysv_rook:
+dsysvx.f:
+   dsysvx:
+dsysvxx.f:
+   dsysvxx:
+dsyswapr.f:
+   dsyswapr:
+Warning on line 192 of dsyswapr.f: ignoring text after "end".
+dsytd2.f:
+   dsytd2:
+dsytf2.f:
+   dsytf2:
+dsytf2_rk.f:
+   dsytf2_rk:
+dsytf2_rook.f:
+   dsytf2_rook:
+dsytrd_2stage.f:
+   dsytrd_2stage:
+dsytrd.f:
+   dsytrd:
+dsytrd_sy2sb.f:
+   dsytrd_sy2sb:
+dsytrf_aa.f:
+   dsytrf_aa:
+dsytrf.f:
+   dsytrf:
+dsytrf_rk.f:
+   dsytrf_rk:
+dsytrf_rook.f:
+   dsytrf_rook:
+dsytri2.f:
+   dsytri2:
+dsytri2x.f:
+   dsytri2x:
+dsytri_3.f:
+   dsytri_3:
+dsytri_3x.f:
+   dsytri_3x:
+dsytri.f:
+   dsytri:
+dsytri_rook.f:
+   dsytri_rook:
+dsytrs2.f:
+   dsytrs2:
+dsytrs_3.f:
+   dsytrs_3:
+dsytrs_aa.f:
+   dsytrs_aa:
+dsytrs.f:
+   dsytrs:
+dsytrs_rook.f:
+   dsytrs_rook:
+dtbcon.f:
+   dtbcon:
+dtbrfs.f:
+   dtbrfs:
+dtbtrs.f:
+   dtbtrs:
+dtfsm.f:
+   dtfsm:
+dtftri.f:
+   dtftri:
+dtfttp.f:
+   dtfttp:
+dtfttr.f:
+   dtfttr:
+dtgevc.f:
+   dtgevc:
+dtgex2.f:
+   dtgex2:
+dtgexc.f:
+   dtgexc:
+dtgsen.f:
+   dtgsen:
+dtgsja.f:
+   dtgsja:
+dtgsna.f:
+   dtgsna:
+dtgsy2.f:
+   dtgsy2:
+dtgsyl.f:
+   dtgsyl:
+dtpcon.f:
+   dtpcon:
+dtplqt2.f:
+   dtplqt2:
+dtplqt.f:
+   dtplqt:
+dtpmlqt.f:
+   dtpmlqt:
+Warning on line 366 of dtpmlqt.f: dlarfb declared EXTERNAL but never used.
+dtpmqrt.f:
+   dtpmqrt:
+dtpqrt2.f:
+   dtpqrt2:
+dtpqrt.f:
+   dtpqrt:
+dtprfb.f:
+   dtprfb:
+dtprfs.f:
+   dtprfs:
+dtptri.f:
+   dtptri:
+dtptrs.f:
+   dtptrs:
+dtpttf.f:
+   dtpttf:
+dtpttr.f:
+   dtpttr:
+dtrcon.f:
+   dtrcon:
+dtrevc3.f:
+   dtrevc3:
+dtrevc.f:
+   dtrevc:
+dtrexc.f:
+   dtrexc:
+dtrrfs.f:
+   dtrrfs:
+dtrsen.f:
+   dtrsen:
+dtrsna.f:
+   dtrsna:
+dtrsyl.f:
+   dtrsyl:
+dtrti2.f:
+   dtrti2:
+dtrtri.f:
+   dtrtri:
+dtrtrs.f:
+   dtrtrs:
+dtrttf.f:
+   dtrttf:
+dtrttp.f:
+   dtrttp:
+dtzrzf.f:
+   dtzrzf:
+dzsum1.f:
+   dzsum1:
+icmax1.f:
+   icmax1:
+ieeeck.f:
+   ieeeck:
+ilaclc.f:
+   ilaclc:
+ilaclr.f:
+   ilaclr:
+iladiag.f:
+   iladiag:
+iladlc.f:
+   iladlc:
+iladlr.f:
+   iladlr:
+ilaenv.f:
+   ilaenv:
+ilaprec.f:
+   ilaprec:
+ilaslc.f:
+   ilaslc:
+ilaslr.f:
+   ilaslr:
+ilatrans.f:
+   ilatrans:
+ilauplo.f:
+   ilauplo:
+ilazlc.f:
+   ilazlc:
+ilazlr.f:
+   ilazlr:
+iparmq.f:
+   iparmq:
+izmax1.f:
+   izmax1:
+lsamen.f:
+   lsamen:
+sbbcsd.f:
+   sbbcsd:
+Error on line 482 of sbbcsd.f: unclassifiable statement (starts "exit")
+Error on line 490 of sbbcsd.f: syntax error
+Error on line 491 of sbbcsd.f: misplaced ENDDO
+Error on line 1019 of sbbcsd.f: syntax error
+Error on line 1020 of sbbcsd.f: misplaced ENDDO
+Error on line 1027 of sbbcsd.f: syntax error
+Error on line 1028 of sbbcsd.f: misplaced ENDDO
+Error on line 1079 of sbbcsd.f: DO loop or BLOCK IF not closed
+sbdsdc.f:
+   sbdsdc:
+sbdsqr.f:
+   sbdsqr:
+sbdsvdx.f:
+   sbdsvdx:
+Error on line 370 of sbdsvdx.f: syntax error
+Error on line 371 of sbdsvdx.f: misplaced ENDDO
+Error on line 378 of sbdsvdx.f: nested loops with variable i
+Error on line 419 of sbdsvdx.f: wrong number of subscripts on work
+Error on line 419 of sbdsvdx.f: substring of noncharacter work
+Error on line 443 of sbdsvdx.f: wrong number of subscripts on work
+Error on line 443 of sbdsvdx.f: substring of noncharacter work
+Error on line 451 of sbdsvdx.f: wrong number of subscripts on work
+Error on line 451 of sbdsvdx.f: substring of noncharacter work
+Error on line 490 of sbdsvdx.f: wrong number of subscripts on s
+Error on line 490 of sbdsvdx.f: substring of noncharacter s
+Error on line 492 of sbdsvdx.f: wrong number of subscripts on work
+Error on line 492 of sbdsvdx.f: substring of noncharacter work
+Error on line 603 of sbdsvdx.f: substring of noncharacter s
+Error on line 625 of sbdsvdx.f: syntax error
+Error on line 628 of sbdsvdx.f: syntax error
+Error on line 636 of sbdsvdx.f: nested loops with variable i
+Error on line 659 of sbdsvdx.f: nested loops with variable i
+Error on line 692 of sbdsvdx.f: syntax error
+Error on line 694 of sbdsvdx.f: syntax error
+Error on line 704 of sbdsvdx.f: nested loops with variable i
+Error on line 721 of sbdsvdx.f: syntax error
+Error on line 729 of sbdsvdx.f: syntax error
+Error on line 732 of sbdsvdx.f: syntax error
+Error on line 745 of sbdsvdx.f: nested loops with variable i
+Error on line 766 of sbdsvdx.f: wrong number of subscripts on s
+Error on line 766 of sbdsvdx.f: substring of noncharacter s
+Error on line 767 of sbdsvdx.f: syntax error
+Error on line 776 of sbdsvdx.f: nested loops with variable i
+Error on line 792 of sbdsvdx.f: DO loop or BLOCK IF not closed
+scsum1.f:
+   scsum1:
+sdisna.f:
+   sdisna:
+sgbbrd.f:
+   sgbbrd:
+sgbcon.f:
+   sgbcon:
+sgbequb.f:
+   sgbequb:
+sgbequ.f:
+   sgbequ:
+sgbrfs.f:
+   sgbrfs:
+sgbrfsx.f:
+   sgbrfsx:
+Error on line 487 of sgbrfsx.f: syntax error
+Error on line 638 of sgbrfsx.f: impossible conversion
+Error on line 640 of sgbrfsx.f: impossible conversion
+sgbsv.f:
+   sgbsv:
+sgbsvx.f:
+   sgbsvx:
+sgbsvxx.f:
+   sgbsvxx:
+sgbtf2.f:
+   sgbtf2:
+sgbtrf.f:
+   sgbtrf:
+sgbtrs.f:
+   sgbtrs:
+sgebak.f:
+   sgebak:
+sgebal.f:
+   sgebal:
+sgebd2.f:
+   sgebd2:
+sgebrd.f:
+   sgebrd:
+sgecon.f:
+   sgecon:
+sgeequb.f:
+   sgeequb:
+sgeequ.f:
+   sgeequ:
+sgees.f:
+   sgees:
+sgeesx.f:
+   sgeesx:
+sgeev.f:
+   sgeev:
+sgeevx.f:
+   sgeevx:
+sgehd2.f:
+   sgehd2:
+sgehrd.f:
+   sgehrd:
+sgejsv.f:
+   sgejsv:
+Error on line 594 of sgejsv.f: wrong number of subscripts on iwork
+Error on line 594 of sgejsv.f: substring of noncharacter iwork
+Error on line 595 of sgejsv.f: wrong number of subscripts on work
+Error on line 595 of sgejsv.f: substring of noncharacter work
+sgelq2.f:
+   sgelq2:
+sgelq.f:
+   sgelq:
+Warning on line 305 of sgelq.f: lsame declared EXTERNAL but never used.
+sgelqf.f:
+   sgelqf:
+sgelqt3.f:
+Error on line 115 of sgelqt3.f: unclassifiable statement (starts "recursives")
+   MAIN:
+Warning on line 155 of sgelqt3.f: RETURN statement in main or block data
+Warning on line 238 of sgelqt3.f: RETURN statement in main or block data
+Error on line 242 of sgelqt3.f: Declaration error for a: adjustable dimension on non-argument
+Error on line 242 of sgelqt3.f: Declaration error for t: adjustable dimension on non-argument
+Warning on line 242 of sgelqt3.f: local variable n1 never used
+Warning on line 242 of sgelqt3.f: local variable n2 never used
+Error on line 242 of sgelqt3.f: wr_ardecls:  nonconstant array size
+Error on line 242 of sgelqt3.f: wr_ardecls:  nonconstant array size
+Warning on line 242 of sgelqt3.f: dgemm declared EXTERNAL but never used.
+Warning on line 242 of sgelqt3.f: dtrmm declared EXTERNAL but never used.
+Warning on line 242 of sgelqt3.f: dlarfg declared EXTERNAL but never used.
+sgelqt.f:
+   sgelqt:
+Warning on line 193 of sgelqt.f: sgeqrt2 declared EXTERNAL but never used.
+Warning on line 193 of sgelqt.f: sgeqrt3 declared EXTERNAL but never used.
+sgelsd.f:
+   sgelsd:
+sgels.f:
+   sgels:
+sgelss.f:
+   sgelss:
+sgelsy.f:
+   sgelsy:
+sgemlq.f:
+   sgemlq:
+sgemlqt.f:
+   sgemlqt:
+Warning on line 272 of sgemlqt.f: local variable q never used
+Warning on line 272 of sgemlqt.f: dlarfb declared EXTERNAL but never used.
+sgemqr.f:
+   sgemqr:
+sgemqrt.f:
+   sgemqrt:
+sgeql2.f:
+   sgeql2:
+sgeqlf.f:
+   sgeqlf:
+sgeqp3.f:
+   sgeqp3:
+sgeqr2.f:
+   sgeqr2:
+sgeqr2p.f:
+   sgeqr2p:
+sgeqr.f:
+   sgeqr:
+Warning on line 307 of sgeqr.f: lsame declared EXTERNAL but never used.
+sgeqrf.f:
+   sgeqrf:
+sgeqrfp.f:
+   sgeqrfp:
+sgeqrt2.f:
+   sgeqrt2:
+sgeqrt3.f:
+Error on line 133 of sgeqrt3.f: unclassifiable statement (starts "recursives")
+   MAIN:
+Warning on line 173 of sgeqrt3.f: RETURN statement in main or block data
+Warning on line 253 of sgeqrt3.f: RETURN statement in main or block data
+Error on line 257 of sgeqrt3.f: Declaration error for a: adjustable dimension on non-argument
+Error on line 257 of sgeqrt3.f: Declaration error for t: adjustable dimension on non-argument
+Error on line 257 of sgeqrt3.f: wr_ardecls:  nonconstant array size
+Error on line 257 of sgeqrt3.f: wr_ardecls:  nonconstant array size
+sgeqrt.f:
+   sgeqrt:
+sgerfs.f:
+   sgerfs:
+sgerfsx.f:
+   sgerfsx:
+Error on line 461 of sgerfsx.f: syntax error
+Error on line 607 of sgerfsx.f: impossible conversion
+Error on line 609 of sgerfsx.f: impossible conversion
+sgerq2.f:
+   sgerq2:
+sgerqf.f:
+   sgerqf:
+sgesc2.f:
+   sgesc2:
+sgesdd.f:
+   sgesdd:
+sgesvd.f:
+   sgesvd:
+sgesvdx.f:
+   sgesvdx:
+sgesv.f:
+   sgesv:
+sgesvj.f:
+   sgesvj:
+sgesvx.f:
+   sgesvx:
+sgesvxx.f:
+   sgesvxx:
+sgetc2.f:
+   sgetc2:
+sgetf2.f:
+   sgetf2:
+sgetrf2.f:
+Error on line 114 of sgetrf2.f: unclassifiable statement (starts "recursives")
+   MAIN:
+Warning on line 164 of sgetrf2.f: RETURN statement in main or block data
+Warning on line 169 of sgetrf2.f: RETURN statement in main or block data
+Warning on line 268 of sgetrf2.f: RETURN statement in main or block data
+Error on line 272 of sgetrf2.f: Declaration error for a: adjustable dimension on non-argument
+Error on line 272 of sgetrf2.f: Declaration error for ipiv: adjustable dimension on non-argument
+Error on line 272 of sgetrf2.f: wr_ardecls:  nonconstant array size
+sgetrf.f:
+   sgetrf:
+sgetri.f:
+   sgetri:
+sgetrs.f:
+   sgetrs:
+sgetsls.f:
+   sgetsls:
+Warning on line 494 of sgetsls.f: ilaenv declared EXTERNAL but never used.
+sggbak.f:
+   sggbak:
+sggbal.f:
+   sggbal:
+sgges3.f:
+   sgges3:
+sgges.f:
+   sgges:
+sggesx.f:
+   sggesx:
+sggev3.f:
+   sggev3:
+sggev.f:
+   sggev:
+sggevx.f:
+   sggevx:
+sggglm.f:
+   sggglm:
+sgghd3.f:
+   sgghd3:
+sgghrd.f:
+   sgghrd:
+sgglse.f:
+   sgglse:
+sggqrf.f:
+   sggqrf:
+sggrqf.f:
+   sggrqf:
+sggsvd3.f:
+   sggsvd3:
+sggsvp3.f:
+   sggsvp3:
+sgsvj0.f:
+   sgsvj0:
+sgsvj1.f:
+   sgsvj1:
+sgtcon.f:
+   sgtcon:
+sgtrfs.f:
+   sgtrfs:
+sgtsv.f:
+   sgtsv:
+sgtsvx.f:
+   sgtsvx:
+sgttrf.f:
+   sgttrf:
+sgttrs.f:
+   sgttrs:
+sgtts2.f:
+   sgtts2:
+shgeqz.f:
+   shgeqz:
+shsein.f:
+   shsein:
+shseqr.f:
+   shseqr:
+sisnan.f:
+   sisnan:
+Error on line 68 of sisnan.f: syntax error
+Warning on line 80 of sisnan.f: local variable in never used
+Warning on line 80 of sisnan.f: local variable intent never used
+Error on line 80 of sisnan.f: Declaration error for intent: adjustable dimension on non-argument
+slabad.f:
+   slabad:
+slabrd.f:
+   slabrd:
+slacn2.f:
+   slacn2:
+slacon.f:
+   slacon:
+slacpy.f:
+   slacpy:
+sladiv.f:
+   sladiv:
+   sladiv1:
+   sladiv2:
+slae2.f:
+   slae2:
+slaebz.f:
+   slaebz:
+slaed0.f:
+   slaed0:
+slaed1.f:
+   slaed1:
+slaed2.f:
+   slaed2:
+slaed3.f:
+   slaed3:
+slaed4.f:
+   slaed4:
+slaed5.f:
+   slaed5:
+slaed6.f:
+   slaed6:
+slaed7.f:
+   slaed7:
+slaed8.f:
+   slaed8:
+slaed9.f:
+   slaed9:
+slaeda.f:
+   slaeda:
+slaein.f:
+   slaein:
+slaev2.f:
+   slaev2:
+slaexc.f:
+   slaexc:
+slag2d.f:
+   slag2d:
+slag2.f:
+   slag2:
+sla_gbamv.f:
+   sla_gbamv:
+sla_gbrcond.f:
+   sla_gbrcond:
+sla_gbrfsx_extended.f:
+   sla_gbrfsx_extended:
+sla_gbrpvgrw.f:
+   sla_gbrpvgrw:
+sla_geamv.f:
+   sla_geamv:
+sla_gercond.f:
+   sla_gercond:
+sla_gerfsx_extended.f:
+   sla_gerfsx_extended:
+sla_gerpvgrw.f:
+   sla_gerpvgrw:
+slags2.f:
+   slags2:
+slagtf.f:
+   slagtf:
+slagtm.f:
+   slagtm:
+slagts.f:
+   slagts:
+slagv2.f:
+   slagv2:
+slahqr.f:
+   slahqr:
+slahr2.f:
+   slahr2:
+slaic1.f:
+   slaic1:
+slaisnan.f:
+   slaisnan:
+Error on line 83 of slaisnan.f: syntax error
+Warning on line 91 of slaisnan.f: local variable in never used
+Warning on line 91 of slaisnan.f: local variable intent never used
+Error on line 91 of slaisnan.f: Declaration error for intent: adjustable dimension on non-argument
+sla_lin_berr.f:
+   sla_lin_berr:
+slaln2.f:
+   slaln2:
+slals0.f:
+   slals0:
+slalsa.f:
+   slalsa:
+slalsd.f:
+   slalsd:
+slamrg.f:
+   slamrg:
+slamswlq.f:
+   slamswlq:
+slamtsqr.f:
+   slamtsqr:
+slaneg.f:
+   slaneg:
+slangb.f:
+   slangb:
+slange.f:
+   slange:
+slangt.f:
+   slangt:
+slanhs.f:
+   slanhs:
+slansb.f:
+   slansb:
+slansf.f:
+   slansf:
+slansp.f:
+   slansp:
+slanst.f:
+   slanst:
+slansy.f:
+   slansy:
+slantb.f:
+   slantb:
+slantp.f:
+   slantp:
+slantr.f:
+   slantr:
+slanv2.f:
+   slanv2:
+slapll.f:
+   slapll:
+slapmr.f:
+   slapmr:
+slapmt.f:
+   slapmt:
+sla_porcond.f:
+   sla_porcond:
+sla_porfsx_extended.f:
+   sla_porfsx_extended:
+sla_porpvgrw.f:
+   sla_porpvgrw:
+slapy2.f:
+   slapy2:
+slapy3.f:
+   slapy3:
+slaqgb.f:
+   slaqgb:
+slaqge.f:
+   slaqge:
+slaqp2.f:
+   slaqp2:
+slaqps.f:
+   slaqps:
+slaqr0.f:
+   slaqr0:
+slaqr1.f:
+   slaqr1:
+slaqr2.f:
+   slaqr2:
+slaqr3.f:
+   slaqr3:
+slaqr4.f:
+   slaqr4:
+slaqr5.f:
+   slaqr5:
+slaqsb.f:
+   slaqsb:
+slaqsp.f:
+   slaqsp:
+slaqsy.f:
+   slaqsy:
+slaqtr.f:
+   slaqtr:
+slar1v.f:
+   slar1v:
+slar2v.f:
+   slar2v:
+slarfb.f:
+   slarfb:
+slarf.f:
+   slarf:
+slarfg.f:
+   slarfg:
+slarfgp.f:
+   slarfgp:
+slarft.f:
+   slarft:
+Error on line 220 of slarft.f: syntax error
+Error on line 221 of slarft.f: misplaced ENDDO
+Error on line 234 of slarft.f: nested loops with variable lastv
+Error on line 235 of slarft.f: syntax error
+Error on line 236 of slarft.f: misplaced ENDDO
+Error on line 259 of slarft.f: Execution error endif out of place
+Error on line 261 of slarft.f: Execution error else out of place
+Error on line 263 of slarft.f: nested loops with variable i
+Error on line 278 of slarft.f: nested loops with variable lastv
+Error on line 279 of slarft.f: syntax error
+Error on line 280 of slarft.f: misplaced ENDDO
+Error on line 293 of slarft.f: nested loops with variable lastv
+Error on line 294 of slarft.f: syntax error
+Error on line 295 of slarft.f: misplaced ENDDO
+Error on line 317 of slarft.f: Execution error endif out of place
+Error on line 319 of slarft.f: Execution error endif out of place
+Error on line 326 of slarft.f: DO loop or BLOCK IF not closed
+slarfx.f:
+   slarfx:
+slarfy.f:
+   slarfy:
+slargv.f:
+   slargv:
+slarnv.f:
+   slarnv:
+slarra.f:
+   slarra:
+slarrb.f:
+   slarrb:
+slarrc.f:
+   slarrc:
+slarrd.f:
+   slarrd:
+slarre.f:
+   slarre:
+slarrf.f:
+   slarrf:
+slarrj.f:
+   slarrj:
+slarrk.f:
+   slarrk:
+slarrr.f:
+   slarrr:
+slarrv.f:
+   slarrv:
+slarscl2.f:
+   slarscl2:
+slartg.f:
+   slartg:
+slartgp.f:
+   slartgp:
+slartgs.f:
+   slartgs:
+slartv.f:
+   slartv:
+slaruv.f:
+   slaruv:
+slarzb.f:
+   slarzb:
+slarz.f:
+   slarz:
+slarzt.f:
+   slarzt:
+slas2.f:
+   slas2:
+slascl2.f:
+   slascl2:
+slascl.f:
+   slascl:
+slasd0.f:
+   slasd0:
+slasd1.f:
+   slasd1:
+slasd2.f:
+   slasd2:
+slasd3.f:
+   slasd3:
+slasd4.f:
+   slasd4:
+slasd5.f:
+   slasd5:
+slasd6.f:
+   slasd6:
+slasd7.f:
+   slasd7:
+slasd8.f:
+   slasd8:
+slasda.f:
+   slasda:
+slasdq.f:
+   slasdq:
+slasdt.f:
+   slasdt:
+slaset.f:
+   slaset:
+slasq1.f:
+   slasq1:
+slasq2.f:
+   slasq2:
+slasq3.f:
+   slasq3:
+slasq4.f:
+   slasq4:
+slasq5.f:
+   slasq5:
+slasq6.f:
+   slasq6:
+slasr.f:
+   slasr:
+slasrt.f:
+   slasrt:
+slassq.f:
+   slassq:
+slasv2.f:
+   slasv2:
+slaswlq.f:
+   slaswlq:
+Warning on line 258 of slaswlq.f: lsame declared EXTERNAL but never used.
+Warning on line 258 of slaswlq.f: sgeqrt declared EXTERNAL but never used.
+Warning on line 258 of slaswlq.f: stpqrt declared EXTERNAL but never used.
+slaswp.f:
+   slaswp:
+slasy2.f:
+   slasy2:
+sla_syamv.f:
+   sla_syamv:
+slasyf_aa.f:
+   slasyf_aa:
+Warning on line 512 of slasyf_aa.f: xerbla declared EXTERNAL but never used.
+Warning on line 512 of slasyf_aa.f: ilaenv declared EXTERNAL but never used.
+slasyf.f:
+   slasyf:
+slasyf_rk.f:
+   slasyf_rk:
+slasyf_rook.f:
+   slasyf_rook:
+sla_syrcond.f:
+   sla_syrcond:
+sla_syrfsx_extended.f:
+   sla_syrfsx_extended:
+sla_syrpvgrw.f:
+   sla_syrpvgrw:
+slatbs.f:
+   slatbs:
+slatdf.f:
+   slatdf:
+slatps.f:
+   slatps:
+slatrd.f:
+   slatrd:
+slatrs.f:
+   slatrs:
+slatrz.f:
+   slatrz:
+slatsqr.f:
+   slatsqr:
+Warning on line 255 of slatsqr.f: lsame declared EXTERNAL but never used.
+slauu2.f:
+   slauu2:
+slauum.f:
+   slauum:
+sla_wwaddw.f:
+   sla_wwaddw:
+sopgtr.f:
+   sopgtr:
+sopmtr.f:
+   sopmtr:
+sorbdb1.f:
+   sorbdb1:
+sorbdb2.f:
+   sorbdb2:
+sorbdb3.f:
+   sorbdb3:
+sorbdb4.f:
+   sorbdb4:
+sorbdb5.f:
+   sorbdb5:
+sorbdb6.f:
+   sorbdb6:
+sorbdb.f:
+   sorbdb:
+sorcsd2by1.f:
+   sorcsd2by1:
+sorcsd.f:
+Error on line 297 of sorcsd.f: unclassifiable statement (starts "recursives")
+   MAIN:
+Warning on line 417 of sorcsd.f: RETURN statement in main or block data
+Warning on line 433 of sorcsd.f: RETURN statement in main or block data
+Warning on line 496 of sorcsd.f: RETURN statement in main or block data
+Warning on line 498 of sorcsd.f: RETURN statement in main or block data
+Warning on line 610 of sorcsd.f: RETURN statement in main or block data
+Error on line 614 of sorcsd.f: Declaration error for u1: adjustable dimension on non-argument
+Error on line 614 of sorcsd.f: Declaration error for u2: adjustable dimension on non-argument
+Error on line 614 of sorcsd.f: Declaration error for x11: adjustable dimension on non-argument
+Error on line 614 of sorcsd.f: Declaration error for x12: adjustable dimension on non-argument
+Error on line 614 of sorcsd.f: Declaration error for x21: adjustable dimension on non-argument
+Error on line 614 of sorcsd.f: Declaration error for x22: adjustable dimension on non-argument
+Error on line 614 of sorcsd.f: Declaration error for v1t: adjustable dimension on non-argument
+Error on line 614 of sorcsd.f: Declaration error for v2t: adjustable dimension on non-argument
+Error on line 614 of sorcsd.f: Declaration error for work: adjustable dimension on non-argument
+Error on line 614 of sorcsd.f: Declaration error for theta: adjustable dimension on non-argument
+Error on line 614 of sorcsd.f: Declaration error for iwork: adjustable dimension on non-argument
+Error on line 614 of sorcsd.f: wr_ardecls:  nonconstant array size
+Error on line 614 of sorcsd.f: wr_ardecls:  nonconstant array size
+Error on line 614 of sorcsd.f: wr_ardecls:  nonconstant array size
+Error on line 614 of sorcsd.f: wr_ardecls:  nonconstant array size
+Error on line 614 of sorcsd.f: wr_ardecls:  nonconstant array size
+Error on line 614 of sorcsd.f: wr_ardecls:  nonconstant array size
+Error on line 614 of sorcsd.f: wr_ardecls:  nonconstant array size
+Error on line 614 of sorcsd.f: wr_ardecls:  nonconstant array size
+sorg2l.f:
+   sorg2l:
+sorg2r.f:
+   sorg2r:
+sorgbr.f:
+   sorgbr:
+sorghr.f:
+   sorghr:
+sorgl2.f:
+   sorgl2:
+sorglq.f:
+   sorglq:
+sorgql.f:
+   sorgql:
+sorgqr.f:
+   sorgqr:
+sorgr2.f:
+   sorgr2:
+sorgrq.f:
+   sorgrq:
+sorgtr.f:
+   sorgtr:
+sorm22.f:
+   sorm22:
+sorm2l.f:
+   sorm2l:
+sorm2r.f:
+   sorm2r:
+sormbr.f:
+   sormbr:
+sormhr.f:
+   sormhr:
+sorml2.f:
+   sorml2:
+sormlq.f:
+   sormlq:
+sormql.f:
+   sormql:
+sormqr.f:
+   sormqr:
+sormr2.f:
+   sormr2:
+sormr3.f:
+   sormr3:
+sormrq.f:
+   sormrq:
+sormrz.f:
+   sormrz:
+sormtr.f:
+   sormtr:
+spbcon.f:
+   spbcon:
+spbequ.f:
+   spbequ:
+spbrfs.f:
+   spbrfs:
+spbstf.f:
+   spbstf:
+spbsv.f:
+   spbsv:
+spbsvx.f:
+   spbsvx:
+spbtf2.f:
+   spbtf2:
+spbtrf.f:
+   spbtrf:
+spbtrs.f:
+   spbtrs:
+spftrf.f:
+   spftrf:
+spftri.f:
+   spftri:
+spftrs.f:
+   spftrs:
+spocon.f:
+   spocon:
+spoequb.f:
+   spoequb:
+spoequ.f:
+   spoequ:
+sporfs.f:
+   sporfs:
+sporfsx.f:
+   sporfsx:
+Error on line 441 of sporfsx.f: syntax error
+Error on line 582 of sporfsx.f: impossible conversion
+sposv.f:
+   sposv:
+sposvx.f:
+   sposvx:
+sposvxx.f:
+   sposvxx:
+spotf2.f:
+   spotf2:
+spotrf2.f:
+Error on line 107 of spotrf2.f: unclassifiable statement (starts "recursives")
+   MAIN:
+Warning on line 157 of spotrf2.f: RETURN statement in main or block data
+Warning on line 162 of spotrf2.f: RETURN statement in main or block data
+Warning on line 173 of spotrf2.f: RETURN statement in main or block data
+Warning on line 191 of spotrf2.f: RETURN statement in main or block data
+Warning on line 210 of spotrf2.f: RETURN statement in main or block data
+Warning on line 229 of spotrf2.f: RETURN statement in main or block data
+Warning on line 233 of spotrf2.f: RETURN statement in main or block data
+Error on line 237 of spotrf2.f: Declaration error for a: adjustable dimension on non-argument
+Error on line 237 of spotrf2.f: wr_ardecls:  nonconstant array size
+spotrf.f:
+   spotrf:
+spotri.f:
+   spotri:
+spotrs.f:
+   spotrs:
+sppcon.f:
+   sppcon:
+sppequ.f:
+   sppequ:
+spprfs.f:
+   spprfs:
+sppsv.f:
+   sppsv:
+sppsvx.f:
+   sppsvx:
+spptrf.f:
+   spptrf:
+spptri.f:
+   spptri:
+spptrs.f:
+   spptrs:
+spstf2.f:
+   spstf2:
+Error on line 179 of spstf2.f: Declaration error for maxloc: unknown intrinsic function
+Error on line 260 of spstf2.f: substring of noncharacter work
+Error on line 323 of spstf2.f: substring of noncharacter work
+spstrf.f:
+   spstrf:
+Error on line 180 of spstrf.f: Declaration error for maxloc: unknown intrinsic function
+Error on line 282 of spstrf.f: substring of noncharacter work
+Error on line 369 of spstrf.f: substring of noncharacter work
+sptcon.f:
+   sptcon:
+spteqr.f:
+   spteqr:
+sptrfs.f:
+   sptrfs:
+sptsv.f:
+   sptsv:
+sptsvx.f:
+   sptsvx:
+spttrf.f:
+   spttrf:
+spttrs.f:
+   spttrs:
+sptts2.f:
+   sptts2:
+srscl.f:
+   srscl:
+ssb2st_kernels.f:
+   ssb2st_kernels:
+ssbev_2stage.f:
+   ssbev_2stage:
+ssbevd_2stage.f:
+   ssbevd_2stage:
+ssbevd.f:
+   ssbevd:
+ssbev.f:
+   ssbev:
+ssbevx_2stage.f:
+   ssbevx_2stage:
+ssbevx.f:
+   ssbevx:
+ssbgst.f:
+   ssbgst:
+ssbgvd.f:
+   ssbgvd:
+ssbgv.f:
+   ssbgv:
+ssbgvx.f:
+   ssbgvx:
+ssbtrd.f:
+   ssbtrd:
+ssfrk.f:
+   ssfrk:
+sspcon.f:
+   sspcon:
+sspevd.f:
+   sspevd:
+sspev.f:
+   sspev:
+sspevx.f:
+   sspevx:
+sspgst.f:
+   sspgst:
+sspgvd.f:
+   sspgvd:
+sspgv.f:
+   sspgv:
+sspgvx.f:
+   sspgvx:
+ssprfs.f:
+   ssprfs:
+sspsv.f:
+   sspsv:
+sspsvx.f:
+   sspsvx:
+ssptrd.f:
+   ssptrd:
+ssptrf.f:
+   ssptrf:
+ssptri.f:
+   ssptri:
+ssptrs.f:
+   ssptrs:
+sstebz.f:
+   sstebz:
+sstedc.f:
+   sstedc:
+sstegr.f:
+   sstegr:
+sstein.f:
+   sstein:
+sstemr.f:
+   sstemr:
+ssteqr.f:
+   ssteqr:
+ssterf.f:
+   ssterf:
+sstevd.f:
+   sstevd:
+sstev.f:
+   sstev:
+sstevr.f:
+   sstevr:
+sstevx.f:
+   sstevx:
+ssycon_3.f:
+   ssycon_3:
+ssycon.f:
+   ssycon:
+ssycon_rook.f:
+   ssycon_rook:
+ssyconv.f:
+   ssyconv:
+ssyconvf.f:
+   ssyconvf:
+ssyconvf_rook.f:
+   ssyconvf_rook:
+ssyequb.f:
+   ssyequb:
+ssyev_2stage.f:
+   ssyev_2stage:
+Warning on line 323 of ssyev_2stage.f: statement cannot be reached
+ssyevd_2stage.f:
+   ssyevd_2stage:
+Warning on line 387 of ssyevd_2stage.f: statement cannot be reached
+ssyevd.f:
+   ssyevd:
+ssyev.f:
+   ssyev:
+ssyevr_2stage.f:
+   ssyevr_2stage:
+ssyevr.f:
+   ssyevr:
+ssyevx_2stage.f:
+   ssyevx_2stage:
+ssyevx.f:
+   ssyevx:
+ssygs2.f:
+   ssygs2:
+ssygst.f:
+   ssygst:
+ssygv_2stage.f:
+   ssygv_2stage:
+Warning on line 371 of ssygv_2stage.f: local variable llwork never used
+Warning on line 371 of ssygv_2stage.f: local variable indhous never used
+ssygvd.f:
+   ssygvd:
+ssygv.f:
+   ssygv:
+ssygvx.f:
+   ssygvx:
+ssyrfs.f:
+   ssyrfs:
+ssyrfsx.f:
+   ssyrfsx:
+Error on line 449 of ssyrfsx.f: syntax error
+Error on line 589 of ssyrfsx.f: impossible conversion
+ssysv_aa.f:
+   ssysv_aa:
+Warning on line 253 of ssysv_aa.f: ssytrf declared EXTERNAL but never used.
+Warning on line 253 of ssysv_aa.f: ssytrs declared EXTERNAL but never used.
+Warning on line 253 of ssysv_aa.f: ssytrs2 declared EXTERNAL but never used.
+ssysv.f:
+   ssysv:
+ssysv_rk.f:
+   ssysv_rk:
+ssysv_rook.f:
+   ssysv_rook:
+ssysvx.f:
+   ssysvx:
+ssysvxx.f:
+   ssysvxx:
+ssyswapr.f:
+   ssyswapr:
+Warning on line 192 of ssyswapr.f: ignoring text after "end".
+ssytd2.f:
+   ssytd2:
+ssytf2.f:
+   ssytf2:
+ssytf2_rk.f:
+   ssytf2_rk:
+ssytf2_rook.f:
+   ssytf2_rook:
+ssytrd_2stage.f:
+   ssytrd_2stage:
+ssytrd.f:
+   ssytrd:
+ssytrd_sy2sb.f:
+   ssytrd_sy2sb:
+ssytrf_aa.f:
+   ssytrf_aa:
+ssytrf.f:
+   ssytrf:
+ssytrf_rk.f:
+   ssytrf_rk:
+ssytrf_rook.f:
+   ssytrf_rook:
+ssytri2.f:
+   ssytri2:
+ssytri2x.f:
+   ssytri2x:
+ssytri_3.f:
+   ssytri_3:
+ssytri_3x.f:
+   ssytri_3x:
+ssytri.f:
+   ssytri:
+ssytri_rook.f:
+   ssytri_rook:
+ssytrs2.f:
+   ssytrs2:
+ssytrs_3.f:
+   ssytrs_3:
+ssytrs_aa.f:
+   ssytrs_aa:
+ssytrs.f:
+   ssytrs:
+ssytrs_rook.f:
+   ssytrs_rook:
+stbcon.f:
+   stbcon:
+stbrfs.f:
+   stbrfs:
+stbtrs.f:
+   stbtrs:
+stfsm.f:
+   stfsm:
+stftri.f:
+   stftri:
+stfttp.f:
+   stfttp:
+stfttr.f:
+   stfttr:
+stgevc.f:
+   stgevc:
+stgex2.f:
+   stgex2:
+stgexc.f:
+   stgexc:
+stgsen.f:
+   stgsen:
+stgsja.f:
+   stgsja:
+stgsna.f:
+   stgsna:
+stgsy2.f:
+   stgsy2:
+stgsyl.f:
+   stgsyl:
+stpcon.f:
+   stpcon:
+stplqt2.f:
+   stplqt2:
+stplqt.f:
+   stplqt:
+stpmlqt.f:
+   stpmlqt:
+Warning on line 366 of stpmlqt.f: slarfb declared EXTERNAL but never used.
+stpmqrt.f:
+   stpmqrt:
+stpqrt2.f:
+   stpqrt2:
+stpqrt.f:
+   stpqrt:
+stprfb.f:
+   stprfb:
+stprfs.f:
+   stprfs:
+stptri.f:
+   stptri:
+stptrs.f:
+   stptrs:
+stpttf.f:
+   stpttf:
+stpttr.f:
+   stpttr:
+strcon.f:
+   strcon:
+strevc3.f:
+   strevc3:
+strevc.f:
+   strevc:
+strexc.f:
+   strexc:
+strrfs.f:
+   strrfs:
+strsen.f:
+   strsen:
+strsna.f:
+   strsna:
+strsyl.f:
+   strsyl:
+strti2.f:
+   strti2:
+strtri.f:
+   strtri:
+strtrs.f:
+   strtrs:
+strttf.f:
+   strttf:
+strttp.f:
+   strttp:
+stzrzf.f:
+   stzrzf:
+xerbla_array.f:
+   xerbla_array:
+Error on line 102 of xerbla_array.f: syntax error
+Error on line 123 of xerbla_array.f: impossible conversion
+xerbla.f:
+   xerbla:
+Error on line 86 of xerbla.f: Declaration error for len_trim: unknown intrinsic function
+zbbcsd.f:
+   zbbcsd:
+Error on line 481 of zbbcsd.f: unclassifiable statement (starts "exit")
+Error on line 489 of zbbcsd.f: syntax error
+Error on line 490 of zbbcsd.f: misplaced ENDDO
+Error on line 1024 of zbbcsd.f: syntax error
+Error on line 1025 of zbbcsd.f: misplaced ENDDO
+Error on line 1032 of zbbcsd.f: syntax error
+Error on line 1033 of zbbcsd.f: misplaced ENDDO
+Error on line 1084 of zbbcsd.f: DO loop or BLOCK IF not closed
+zbdsqr.f:
+   zbdsqr:
+zcgesv.f:
+   zcgesv:
+zcposv.f:
+   zcposv:
+zdrscl.f:
+   zdrscl:
+zgbbrd.f:
+   zgbbrd:
+zgbcon.f:
+   zgbcon:
+zgbequb.f:
+   zgbequb:
+zgbequ.f:
+   zgbequ:
+zgbrfs.f:
+   zgbrfs:
+zgbrfsx.f:
+   zgbrfsx:
+Error on line 487 of zgbrfsx.f: syntax error
+Error on line 498 of zgbrfsx.f: Declaration error for transfer: unknown intrinsic function
+Error on line 634 of zgbrfsx.f: impossible conversion
+Error on line 636 of zgbrfsx.f: impossible conversion
+Error on line 649 of zgbrfsx.f: syntax error
+Error on line 657 of zgbrfsx.f: syntax error
+Warning on line 763 of zgbrfsx.f: local variable transfer never used
+Warning on line 763 of zgbrfsx.f: zla_gbrfsx_extended declared EXTERNAL but never used.
+zgbsv.f:
+   zgbsv:
+zgbsvx.f:
+   zgbsvx:
+zgbsvxx.f:
+   zgbsvxx:
+zgbtf2.f:
+   zgbtf2:
+zgbtrf.f:
+   zgbtrf:
+zgbtrs.f:
+   zgbtrs:
+zgebak.f:
+   zgebak:
+zgebal.f:
+   zgebal:
+zgebd2.f:
+   zgebd2:
+zgebrd.f:
+   zgebrd:
+zgecon.f:
+   zgecon:
+zgeequb.f:
+   zgeequb:
+zgeequ.f:
+   zgeequ:
+zgees.f:
+   zgees:
+zgeesx.f:
+   zgeesx:
+zgeev.f:
+   zgeev:
+Error on line 452 of zgeev.f: bad argument type to intrinsic aimag
+Error on line 477 of zgeev.f: bad argument type to intrinsic aimag
+zgeevx.f:
+   zgeevx:
+Error on line 614 of zgeevx.f: bad argument type to intrinsic aimag
+Error on line 637 of zgeevx.f: bad argument type to intrinsic aimag
+zgehd2.f:
+   zgehd2:
+zgehrd.f:
+   zgehrd:
+zgejsv.f:
+   zgejsv:
+Error on line 965 of zgejsv.f: wrong number of subscripts on iwork
+Error on line 965 of zgejsv.f: substring of noncharacter iwork
+Error on line 966 of zgejsv.f: wrong number of subscripts on rwork
+Error on line 966 of zgejsv.f: substring of noncharacter rwork
+zgelq2.f:
+   zgelq2:
+zgelq.f:
+   zgelq:
+Warning on line 306 of zgelq.f: lsame declared EXTERNAL but never used.
+zgelqf.f:
+   zgelqf:
+zgelqt3.f:
+Error on line 132 of zgelqt3.f: unclassifiable statement (starts "recursives")
+   MAIN:
+Warning on line 173 of zgelqt3.f: RETURN statement in main or block data
+Warning on line 257 of zgelqt3.f: RETURN statement in main or block data
+Error on line 261 of zgelqt3.f: Declaration error for a: adjustable dimension on non-argument
+Error on line 261 of zgelqt3.f: Declaration error for t: adjustable dimension on non-argument
+Warning on line 261 of zgelqt3.f: local variable n1 never used
+Warning on line 261 of zgelqt3.f: local variable n2 never used
+Error on line 261 of zgelqt3.f: wr_ardecls:  nonconstant array size
+Error on line 261 of zgelqt3.f: wr_ardecls:  nonconstant array size
+zgelqt.f:
+   zgelqt:
+zgelsd.f:
+   zgelsd:
+zgels.f:
+   zgels:
+zgelss.f:
+   zgelss:
+zgelsy.f:
+   zgelsy:
+zgemlq.f:
+   zgemlq:
+zgemlqt.f:
+   zgemlqt:
+Warning on line 289 of zgemlqt.f: local variable q never used
+zgemqr.f:
+   zgemqr:
+zgemqrt.f:
+   zgemqrt:
+zgeql2.f:
+   zgeql2:
+zgeqlf.f:
+   zgeqlf:
+zgeqp3.f:
+   zgeqp3:
+zgeqr2.f:
+   zgeqr2:
+zgeqr2p.f:
+   zgeqr2p:
+zgeqr.f:
+   zgeqr:
+Warning on line 307 of zgeqr.f: lsame declared EXTERNAL but never used.
+zgeqrf.f:
+   zgeqrf:
+zgeqrfp.f:
+   zgeqrfp:
+zgeqrt2.f:
+   zgeqrt2:
+zgeqrt3.f:
+Error on line 133 of zgeqrt3.f: unclassifiable statement (starts "recursives")
+   MAIN:
+Warning on line 173 of zgeqrt3.f: RETURN statement in main or block data
+Warning on line 253 of zgeqrt3.f: RETURN statement in main or block data
+Error on line 257 of zgeqrt3.f: Declaration error for a: adjustable dimension on non-argument
+Error on line 257 of zgeqrt3.f: Declaration error for t: adjustable dimension on non-argument
+Error on line 257 of zgeqrt3.f: wr_ardecls:  nonconstant array size
+Error on line 257 of zgeqrt3.f: wr_ardecls:  nonconstant array size
+zgeqrt.f:
+   zgeqrt:
+zgerfs.f:
+   zgerfs:
+zgerfsx.f:
+   zgerfsx:
+Error on line 461 of zgerfsx.f: syntax error
+Error on line 475 of zgerfsx.f: Declaration error for transfer: unknown intrinsic function
+Error on line 607 of zgerfsx.f: impossible conversion
+Error on line 609 of zgerfsx.f: impossible conversion
+Error on line 621 of zgerfsx.f: syntax error
+Error on line 629 of zgerfsx.f: syntax error
+Warning on line 734 of zgerfsx.f: local variable transfer never used
+Warning on line 734 of zgerfsx.f: zla_gerfsx_extended declared EXTERNAL but never used.
+zgerq2.f:
+   zgerq2:
+zgerqf.f:
+   zgerqf:
+zgesc2.f:
+   zgesc2:
+zgesdd.f:
+   zgesdd:
+zgesvd.f:
+   zgesvd:
+zgesvdx.f:
+   zgesvdx:
+zgesv.f:
+   zgesv:
+zgesvj.f:
+   zgesvj:
+zgesvx.f:
+   zgesvx:
+zgesvxx.f:
+   zgesvxx:
+zgetc2.f:
+   zgetc2:
+zgetf2.f:
+   zgetf2:
+zgetrf2.f:
+Error on line 114 of zgetrf2.f: unclassifiable statement (starts "recursives")
+   MAIN:
+Warning on line 166 of zgetrf2.f: RETURN statement in main or block data
+Warning on line 171 of zgetrf2.f: RETURN statement in main or block data
+Warning on line 270 of zgetrf2.f: RETURN statement in main or block data
+Error on line 274 of zgetrf2.f: Declaration error for a: adjustable dimension on non-argument
+Error on line 274 of zgetrf2.f: Declaration error for ipiv: adjustable dimension on non-argument
+Error on line 274 of zgetrf2.f: wr_ardecls:  nonconstant array size
+zgetrf.f:
+   zgetrf:
+zgetri.f:
+   zgetri:
+zgetrs.f:
+   zgetrs:
+zgetsls.f:
+   zgetsls:
+Warning on line 497 of zgetsls.f: ilaenv declared EXTERNAL but never used.
+zggbak.f:
+   zggbak:
+zggbal.f:
+   zggbal:
+zgges3.f:
+   zgges3:
+zgges.f:
+   zgges:
+zggesx.f:
+   zggesx:
+zggev3.f:
+   zggev3:
+zggev.f:
+   zggev:
+zggevx.f:
+   zggevx:
+zggglm.f:
+   zggglm:
+zgghd3.f:
+   zgghd3:
+zgghrd.f:
+   zgghrd:
+zgglse.f:
+   zgglse:
+zggqrf.f:
+   zggqrf:
+zggrqf.f:
+   zggrqf:
+zggsvd3.f:
+   zggsvd3:
+zggsvp3.f:
+   zggsvp3:
+zgsvj0.f:
+   zgsvj0:
+zgsvj1.f:
+   zgsvj1:
+zgtcon.f:
+   zgtcon:
+zgtrfs.f:
+   zgtrfs:
+zgtsv.f:
+   zgtsv:
+zgtsvx.f:
+   zgtsvx:
+zgttrf.f:
+   zgttrf:
+zgttrs.f:
+   zgttrs:
+zgtts2.f:
+   zgtts2:
+zhb2st_kernels.f:
+   zhb2st_kernels:
+zhbev_2stage.f:
+   zhbev_2stage:
+Warning on line 386 of zhbev_2stage.f: zhetrd_2stage declared EXTERNAL but never used.
+zhbevd_2stage.f:
+   zhbevd_2stage:
+zhbevd.f:
+   zhbevd:
+zhbev.f:
+   zhbev:
+zhbevx_2stage.f:
+   zhbevx_2stage:
+zhbevx.f:
+   zhbevx:
+zhbgst.f:
+   zhbgst:
+zhbgvd.f:
+   zhbgvd:
+zhbgv.f:
+   zhbgv:
+zhbgvx.f:
+   zhbgvx:
+zhbtrd.f:
+   zhbtrd:
+zhecon_3.f:
+   zhecon_3:
+zhecon.f:
+   zhecon:
+zhecon_rook.f:
+   zhecon_rook:
+zheequb.f:
+   zheequb:
+zheev_2stage.f:
+   zheev_2stage:
+zheevd_2stage.f:
+   zheevd_2stage:
+zheevd.f:
+   zheevd:
+zheev.f:
+   zheev:
+zheevr_2stage.f:
+   zheevr_2stage:
+zheevr.f:
+   zheevr:
+zheevx_2stage.f:
+   zheevx_2stage:
+zheevx.f:
+   zheevx:
+zhegs2.f:
+   zhegs2:
+zhegst.f:
+   zhegst:
+zhegv_2stage.f:
+   zhegv_2stage:
+zhegvd.f:
+   zhegvd:
+zhegv.f:
+   zhegv:
+zhegvx.f:
+   zhegvx:
+zherfs.f:
+   zherfs:
+zherfsx.f:
+   zherfsx:
+Error on line 447 of zherfsx.f: syntax error
+Error on line 461 of zherfsx.f: Declaration error for transfer: unknown intrinsic function
+Error on line 588 of zherfsx.f: impossible conversion
+Error on line 599 of zherfsx.f: syntax error
+Warning on line 700 of zherfsx.f: local variable transfer never used
+Warning on line 700 of zherfsx.f: zla_herfsx_extended declared EXTERNAL but never used.
+zhesv_aa.f:
+   zhesv_aa:
+Warning on line 254 of zhesv_aa.f: ilaenv declared EXTERNAL but never used.
+Warning on line 254 of zhesv_aa.f: zhetrf declared EXTERNAL but never used.
+Warning on line 254 of zhesv_aa.f: zhetrs declared EXTERNAL but never used.
+Warning on line 254 of zhesv_aa.f: zhetrs2 declared EXTERNAL but never used.
+zhesv.f:
+   zhesv:
+zhesv_rk.f:
+   zhesv_rk:
+zhesv_rook.f:
+   zhesv_rook:
+zhesvx.f:
+   zhesvx:
+zhesvxx.f:
+   zhesvxx:
+zheswapr.f:
+   zheswapr:
+Warning on line 202 of zheswapr.f: ignoring text after "end".
+zhetd2.f:
+   zhetd2:
+zhetf2.f:
+   zhetf2:
+zhetf2_rk.f:
+   zhetf2_rk:
+zhetf2_rook.f:
+   zhetf2_rook:
+zhetrd_2stage.f:
+   zhetrd_2stage:
+zhetrd.f:
+   zhetrd:
+zhetrd_he2hb.f:
+   zhetrd_he2hb:
+zhetrf_aa.f:
+   zhetrf_aa:
+zhetrf.f:
+   zhetrf:
+zhetrf_rk.f:
+   zhetrf_rk:
+zhetrf_rook.f:
+   zhetrf_rook:
+zhetri2.f:
+   zhetri2:
+zhetri2x.f:
+   zhetri2x:
+zhetri_3.f:
+   zhetri_3:
+zhetri_3x.f:
+   zhetri_3x:
+zhetri.f:
+   zhetri:
+zhetri_rook.f:
+   zhetri_rook:
+zhetrs2.f:
+   zhetrs2:
+zhetrs_3.f:
+   zhetrs_3:
+zhetrs_aa.f:
+   zhetrs_aa:
+zhetrs.f:
+   zhetrs:
+zhetrs_rook.f:
+   zhetrs_rook:
+zhfrk.f:
+   zhfrk:
+zhgeqz.f:
+   zhgeqz:
+zhpcon.f:
+   zhpcon:
+zhpevd.f:
+   zhpevd:
+zhpev.f:
+   zhpev:
+zhpevx.f:
+   zhpevx:
+zhpgst.f:
+   zhpgst:
+zhpgvd.f:
+   zhpgvd:
+zhpgv.f:
+   zhpgv:
+zhpgvx.f:
+   zhpgvx:
+zhprfs.f:
+   zhprfs:
+zhpsv.f:
+   zhpsv:
+zhpsvx.f:
+   zhpsvx:
+zhptrd.f:
+   zhptrd:
+zhptrf.f:
+   zhptrf:
+zhptri.f:
+   zhptri:
+zhptrs.f:
+   zhptrs:
+zhsein.f:
+   zhsein:
+zhseqr.f:
+   zhseqr:
+zlabrd.f:
+   zlabrd:
+zlacgv.f:
+   zlacgv:
+zlacn2.f:
+   zlacn2:
+zlacon.f:
+   zlacon:
+zlacp2.f:
+   zlacp2:
+zlacpy.f:
+   zlacpy:
+zlacrm.f:
+   zlacrm:
+zlacrt.f:
+   zlacrt:
+zladiv.f:
+   zladiv:
+zlaed0.f:
+   zlaed0:
+zlaed7.f:
+   zlaed7:
+zlaed8.f:
+   zlaed8:
+zlaein.f:
+   zlaein:
+zlaesy.f:
+   zlaesy:
+zlaev2.f:
+   zlaev2:
+zlag2c.f:
+   zlag2c:
+zla_gbamv.f:
+   zla_gbamv:
+zla_gbrcond_c.f:
+   zla_gbrcond_c:
+zla_gbrcond_x.f:
+   zla_gbrcond_x:
+zla_gbrfsx_extended.f:
+   zla_gbrfsx_extended:
+zla_gbrpvgrw.f:
+   zla_gbrpvgrw:
+zla_geamv.f:
+   zla_geamv:
+zla_gercond_c.f:
+   zla_gercond_c:
+zla_gercond_x.f:
+   zla_gercond_x:
+zla_gerfsx_extended.f:
+   zla_gerfsx_extended:
+zla_gerpvgrw.f:
+   zla_gerpvgrw:
+zlags2.f:
+   zlags2:
+zlagtm.f:
+   zlagtm:
+zla_heamv.f:
+   zla_heamv:
+zlahef_aa.f:
+   zlahef_aa:
+Warning on line 520 of zlahef_aa.f: xerbla declared EXTERNAL but never used.
+Warning on line 520 of zlahef_aa.f: ilaenv declared EXTERNAL but never used.
+zlahef.f:
+   zlahef:
+zlahef_rk.f:
+   zlahef_rk:
+zlahef_rook.f:
+   zlahef_rook:
+zla_hercond_c.f:
+   zla_hercond_c:
+zla_hercond_x.f:
+   zla_hercond_x:
+zla_herfsx_extended.f:
+   zla_herfsx_extended:
+zla_herpvgrw.f:
+   zla_herpvgrw:
+zlahqr.f:
+   zlahqr:
+zlahr2.f:
+   zlahr2:
+zlaic1.f:
+   zlaic1:
+zla_lin_berr.f:
+   zla_lin_berr:
+zlals0.f:
+   zlals0:
+zlalsa.f:
+   zlalsa:
+zlalsd.f:
+   zlalsd:
+zlamswlq.f:
+   zlamswlq:
+zlamtsqr.f:
+   zlamtsqr:
+zlangb.f:
+   zlangb:
+zlange.f:
+   zlange:
+zlangt.f:
+   zlangt:
+zlanhb.f:
+   zlanhb:
+zlanhe.f:
+   zlanhe:
+zlanhf.f:
+   zlanhf:
+zlanhp.f:
+   zlanhp:
+zlanhs.f:
+   zlanhs:
+zlanht.f:
+   zlanht:
+zlansb.f:
+   zlansb:
+zlansp.f:
+   zlansp:
+zlansy.f:
+   zlansy:
+zlantb.f:
+   zlantb:
+zlantp.f:
+   zlantp:
+zlantr.f:
+   zlantr:
+zlapll.f:
+   zlapll:
+zlapmr.f:
+   zlapmr:
+zlapmt.f:
+   zlapmt:
+zla_porcond_c.f:
+   zla_porcond_c:
+zla_porcond_x.f:
+   zla_porcond_x:
+zla_porfsx_extended.f:
+   zla_porfsx_extended:
+zla_porpvgrw.f:
+   zla_porpvgrw:
+zlaqgb.f:
+   zlaqgb:
+zlaqge.f:
+   zlaqge:
+zlaqhb.f:
+   zlaqhb:
+zlaqhe.f:
+   zlaqhe:
+zlaqhp.f:
+   zlaqhp:
+zlaqp2.f:
+   zlaqp2:
+zlaqps.f:
+   zlaqps:
+zlaqr0.f:
+   zlaqr0:
+zlaqr1.f:
+   zlaqr1:
+zlaqr2.f:
+   zlaqr2:
+zlaqr3.f:
+   zlaqr3:
+zlaqr4.f:
+   zlaqr4:
+zlaqr5.f:
+   zlaqr5:
+zlaqsb.f:
+   zlaqsb:
+zlaqsp.f:
+   zlaqsp:
+zlaqsy.f:
+   zlaqsy:
+zlar1v.f:
+   zlar1v:
+zlar2v.f:
+   zlar2v:
+zlarcm.f:
+   zlarcm:
+zlarfb.f:
+   zlarfb:
+zlarf.f:
+   zlarf:
+zlarfg.f:
+   zlarfg:
+zlarfgp.f:
+   zlarfgp:
+zlarft.f:
+   zlarft:
+Error on line 221 of zlarft.f: syntax error
+Error on line 222 of zlarft.f: misplaced ENDDO
+Error on line 235 of zlarft.f: nested loops with variable lastv
+Error on line 236 of zlarft.f: syntax error
+Error on line 237 of zlarft.f: misplaced ENDDO
+Error on line 260 of zlarft.f: Execution error endif out of place
+Error on line 262 of zlarft.f: Execution error else out of place
+Error on line 264 of zlarft.f: nested loops with variable i
+Error on line 279 of zlarft.f: nested loops with variable lastv
+Error on line 280 of zlarft.f: syntax error
+Error on line 281 of zlarft.f: misplaced ENDDO
+Error on line 294 of zlarft.f: nested loops with variable lastv
+Error on line 295 of zlarft.f: syntax error
+Error on line 296 of zlarft.f: misplaced ENDDO
+Error on line 318 of zlarft.f: Execution error endif out of place
+Error on line 320 of zlarft.f: Execution error endif out of place
+Error on line 327 of zlarft.f: DO loop or BLOCK IF not closed
+zlarfx.f:
+   zlarfx:
+zlarfy.f:
+   zlarfy:
+zlargv.f:
+   zlargv:
+zlarnv.f:
+   zlarnv:
+zlarrv.f:
+   zlarrv:
+zlarscl2.f:
+   zlarscl2:
+zlartg.f:
+   zlartg:
+zlartv.f:
+   zlartv:
+zlarzb.f:
+   zlarzb:
+zlarz.f:
+   zlarz:
+zlarzt.f:
+   zlarzt:
+zlascl2.f:
+   zlascl2:
+zlascl.f:
+   zlascl:
+zlaset.f:
+   zlaset:
+zlasr.f:
+   zlasr:
+zlassq.f:
+   zlassq:
+zlaswlq.f:
+   zlaswlq:
+Warning on line 258 of zlaswlq.f: lsame declared EXTERNAL but never used.
+zlaswp.f:
+   zlaswp:
+zla_syamv.f:
+   zla_syamv:
+zlasyf_aa.f:
+   zlasyf_aa:
+Warning on line 512 of zlasyf_aa.f: xerbla declared EXTERNAL but never used.
+Warning on line 512 of zlasyf_aa.f: ilaenv declared EXTERNAL but never used.
+zlasyf.f:
+   zlasyf:
+zlasyf_rk.f:
+   zlasyf_rk:
+zlasyf_rook.f:
+   zlasyf_rook:
+zla_syrcond_c.f:
+   zla_syrcond_c:
+zla_syrcond_x.f:
+   zla_syrcond_x:
+zla_syrfsx_extended.f:
+   zla_syrfsx_extended:
+zla_syrpvgrw.f:
+   zla_syrpvgrw:
+zlat2c.f:
+   zlat2c:
+zlatbs.f:
+   zlatbs:
+zlatdf.f:
+   zlatdf:
+zlatps.f:
+   zlatps:
+zlatrd.f:
+   zlatrd:
+zlatrs.f:
+   zlatrs:
+zlatrz.f:
+   zlatrz:
+zlatsqr.f:
+   zlatsqr:
+Warning on line 255 of zlatsqr.f: lsame declared EXTERNAL but never used.
+zlauu2.f:
+   zlauu2:
+zlauum.f:
+   zlauum:
+zla_wwaddw.f:
+   zla_wwaddw:
+zpbcon.f:
+   zpbcon:
+zpbequ.f:
+   zpbequ:
+zpbrfs.f:
+   zpbrfs:
+zpbstf.f:
+   zpbstf:
+zpbsv.f:
+   zpbsv:
+zpbsvx.f:
+   zpbsvx:
+zpbtf2.f:
+   zpbtf2:
+zpbtrf.f:
+   zpbtrf:
+zpbtrs.f:
+   zpbtrs:
+zpftrf.f:
+   zpftrf:
+zpftri.f:
+   zpftri:
+zpftrs.f:
+   zpftrs:
+zpocon.f:
+   zpocon:
+zpoequb.f:
+   zpoequb:
+zpoequ.f:
+   zpoequ:
+zporfs.f:
+   zporfs:
+zporfsx.f:
+   zporfsx:
+Error on line 439 of zporfsx.f: syntax error
+Error on line 453 of zporfsx.f: Declaration error for transfer: unknown intrinsic function
+Error on line 580 of zporfsx.f: impossible conversion
+Error on line 591 of zporfsx.f: syntax error
+Warning on line 693 of zporfsx.f: local variable transfer never used
+Warning on line 693 of zporfsx.f: zla_porfsx_extended declared EXTERNAL but never used.
+zposv.f:
+   zposv:
+zposvx.f:
+   zposvx:
+zposvxx.f:
+   zposvxx:
+zpotf2.f:
+   zpotf2:
+zpotrf2.f:
+Error on line 107 of zpotrf2.f: unclassifiable statement (starts "recursives")
+   MAIN:
+Warning on line 160 of zpotrf2.f: RETURN statement in main or block data
+Warning on line 165 of zpotrf2.f: RETURN statement in main or block data
+Warning on line 177 of zpotrf2.f: RETURN statement in main or block data
+Warning on line 195 of zpotrf2.f: RETURN statement in main or block data
+Warning on line 214 of zpotrf2.f: RETURN statement in main or block data
+Warning on line 233 of zpotrf2.f: RETURN statement in main or block data
+Warning on line 237 of zpotrf2.f: RETURN statement in main or block data
+Error on line 241 of zpotrf2.f: Declaration error for a: adjustable dimension on non-argument
+Error on line 241 of zpotrf2.f: wr_ardecls:  nonconstant array size
+zpotrf.f:
+   zpotrf:
+zpotri.f:
+   zpotri:
+zpotrs.f:
+   zpotrs:
+zppcon.f:
+   zppcon:
+zppequ.f:
+   zppequ:
+zpprfs.f:
+   zpprfs:
+zppsv.f:
+   zppsv:
+zppsvx.f:
+   zppsvx:
+zpptrf.f:
+   zpptrf:
+zpptri.f:
+   zpptri:
+zpptrs.f:
+   zpptrs:
+zpstf2.f:
+   zpstf2:
+Error on line 220 of zpstf2.f: substring of noncharacter work
+Error on line 264 of zpstf2.f: substring of noncharacter work
+Error on line 336 of zpstf2.f: substring of noncharacter work
+zpstrf.f:
+   zpstrf:
+Error on line 186 of zpstrf.f: Declaration error for maxloc: unknown intrinsic function
+Error on line 235 of zpstrf.f: substring of noncharacter work
+Error on line 287 of zpstrf.f: substring of noncharacter work
+Error on line 382 of zpstrf.f: substring of noncharacter work
+zptcon.f:
+   zptcon:
+zpteqr.f:
+   zpteqr:
+zptrfs.f:
+   zptrfs:
+zptsv.f:
+   zptsv:
+zptsvx.f:
+   zptsvx:
+zpttrf.f:
+   zpttrf:
+zpttrs.f:
+   zpttrs:
+zptts2.f:
+   zptts2:
+zrot.f:
+   zrot:
+zspcon.f:
+   zspcon:
+zspmv.f:
+   zspmv:
+zspr.f:
+   zspr:
+zsprfs.f:
+   zsprfs:
+zspsv.f:
+   zspsv:
+zspsvx.f:
+   zspsvx:
+zsptrf.f:
+   zsptrf:
+zsptri.f:
+   zsptri:
+zsptrs.f:
+   zsptrs:
+zstedc.f:
+   zstedc:
+zstegr.f:
+   zstegr:
+zstein.f:
+   zstein:
+zstemr.f:
+   zstemr:
+zsteqr.f:
+   zsteqr:
+zsycon_3.f:
+   zsycon_3:
+zsycon.f:
+   zsycon:
+zsycon_rook.f:
+   zsycon_rook:
+zsyconv.f:
+   zsyconv:
+zsyconvf.f:
+   zsyconvf:
+zsyconvf_rook.f:
+   zsyconvf_rook:
+zsyequb.f:
+   zsyequb:
+zsymv.f:
+   zsymv:
+zsyr.f:
+   zsyr:
+zsyrfs.f:
+   zsyrfs:
+zsyrfsx.f:
+   zsyrfsx:
+Error on line 449 of zsyrfsx.f: syntax error
+Error on line 463 of zsyrfsx.f: Declaration error for transfer: unknown intrinsic function
+Error on line 590 of zsyrfsx.f: impossible conversion
+Error on line 601 of zsyrfsx.f: syntax error
+Warning on line 703 of zsyrfsx.f: local variable transfer never used
+Warning on line 703 of zsyrfsx.f: zla_syrfsx_extended declared EXTERNAL but never used.
+zsysv_aa.f:
+   zsysv_aa:
+Warning on line 254 of zsysv_aa.f: ilaenv declared EXTERNAL but never used.
+Warning on line 254 of zsysv_aa.f: zsytrf declared EXTERNAL but never used.
+Warning on line 254 of zsysv_aa.f: zsytrs declared EXTERNAL but never used.
+Warning on line 254 of zsysv_aa.f: zsytrs2 declared EXTERNAL but never used.
+zsysv.f:
+   zsysv:
+zsysv_rk.f:
+   zsysv_rk:
+zsysv_rook.f:
+   zsysv_rook:
+zsysvx.f:
+   zsysvx:
+zsysvxx.f:
+   zsysvxx:
+zsyswapr.f:
+   zsyswapr:
+Warning on line 192 of zsyswapr.f: ignoring text after "end".
+zsytf2.f:
+   zsytf2:
+zsytf2_rk.f:
+   zsytf2_rk:
+zsytf2_rook.f:
+   zsytf2_rook:
+zsytrf_aa.f:
+   zsytrf_aa:
+zsytrf.f:
+   zsytrf:
+zsytrf_rk.f:
+   zsytrf_rk:
+zsytrf_rook.f:
+   zsytrf_rook:
+zsytri2.f:
+   zsytri2:
+zsytri2x.f:
+   zsytri2x:
+zsytri_3.f:
+   zsytri_3:
+zsytri_3x.f:
+   zsytri_3x:
+zsytri.f:
+   zsytri:
+zsytri_rook.f:
+   zsytri_rook:
+zsytrs2.f:
+   zsytrs2:
+zsytrs_3.f:
+   zsytrs_3:
+zsytrs_aa.f:
+   zsytrs_aa:
+zsytrs.f:
+   zsytrs:
+zsytrs_rook.f:
+   zsytrs_rook:
+ztbcon.f:
+   ztbcon:
+ztbrfs.f:
+   ztbrfs:
+ztbtrs.f:
+   ztbtrs:
+ztfsm.f:
+   ztfsm:
+ztftri.f:
+   ztftri:
+ztfttp.f:
+   ztfttp:
+ztfttr.f:
+   ztfttr:
+ztgevc.f:
+   ztgevc:
+ztgex2.f:
+   ztgex2:
+ztgexc.f:
+   ztgexc:
+ztgsen.f:
+   ztgsen:
+ztgsja.f:
+   ztgsja:
+ztgsna.f:
+   ztgsna:
+ztgsy2.f:
+   ztgsy2:
+ztgsyl.f:
+   ztgsyl:
+ztpcon.f:
+   ztpcon:
+ztplqt2.f:
+   ztplqt2:
+ztplqt.f:
+   ztplqt:
+ztpmlqt.f:
+   ztpmlqt:
+ztpmqrt.f:
+   ztpmqrt:
+ztpqrt2.f:
+   ztpqrt2:
+ztpqrt.f:
+   ztpqrt:
+ztprfb.f:
+   ztprfb:
+ztprfs.f:
+   ztprfs:
+ztptri.f:
+   ztptri:
+ztptrs.f:
+   ztptrs:
+ztpttf.f:
+   ztpttf:
+ztpttr.f:
+   ztpttr:
+ztrcon.f:
+   ztrcon:
+ztrevc3.f:
+   ztrevc3:
+Error on line 413 of ztrevc3.f: bad argument type to intrinsic aimag
+Warning on line 413 of ztrevc3.f: bad argument type to intrinsic abs
+Error on line 431 of ztrevc3.f: bad argument type to intrinsic aimag
+Warning on line 431 of ztrevc3.f: bad argument type to intrinsic abs
+Error on line 450 of ztrevc3.f: bad argument type to intrinsic aimag
+Warning on line 450 of ztrevc3.f: bad argument type to intrinsic abs
+Error on line 466 of ztrevc3.f: bad argument type to intrinsic aimag
+Warning on line 466 of ztrevc3.f: bad argument type to intrinsic abs
+Error on line 489 of ztrevc3.f: bad argument type to intrinsic aimag
+Warning on line 489 of ztrevc3.f: bad argument type to intrinsic abs
+Error on line 528 of ztrevc3.f: bad argument type to intrinsic aimag
+Warning on line 528 of ztrevc3.f: bad argument type to intrinsic abs
+Error on line 546 of ztrevc3.f: bad argument type to intrinsic aimag
+Warning on line 546 of ztrevc3.f: bad argument type to intrinsic abs
+Error on line 565 of ztrevc3.f: bad argument type to intrinsic aimag
+Warning on line 565 of ztrevc3.f: bad argument type to intrinsic abs
+Error on line 581 of ztrevc3.f: bad argument type to intrinsic aimag
+Warning on line 581 of ztrevc3.f: bad argument type to intrinsic abs
+Error on line 605 of ztrevc3.f: bad argument type to intrinsic aimag
+Warning on line 605 of ztrevc3.f: bad argument type to intrinsic abs
+ztrevc.f:
+   ztrevc:
+ztrexc.f:
+   ztrexc:
+ztrrfs.f:
+   ztrrfs:
+ztrsen.f:
+   ztrsen:
+ztrsna.f:
+   ztrsna:
+ztrsyl.f:
+   ztrsyl:
+ztrti2.f:
+   ztrti2:
+ztrtri.f:
+   ztrtri:
+ztrtrs.f:
+   ztrtrs:
+ztrttf.f:
+   ztrttf:
+ztrttp.f:
+   ztrttp:
+ztzrzf.f:
+   ztzrzf:
+zunbdb1.f:
+   zunbdb1:
+zunbdb2.f:
+   zunbdb2:
+zunbdb3.f:
+   zunbdb3:
+zunbdb4.f:
+   zunbdb4:
+zunbdb5.f:
+   zunbdb5:
+zunbdb6.f:
+   zunbdb6:
+zunbdb.f:
+   zunbdb:
+zuncsd2by1.f:
+   zuncsd2by1:
+zuncsd.f:
+Error on line 316 of zuncsd.f: unclassifiable statement (starts "recursives")
+   MAIN:
+Warning on line 439 of zuncsd.f: RETURN statement in main or block data
+Warning on line 455 of zuncsd.f: RETURN statement in main or block data
+Warning on line 530 of zuncsd.f: RETURN statement in main or block data
+Warning on line 532 of zuncsd.f: RETURN statement in main or block data
+Warning on line 653 of zuncsd.f: RETURN statement in main or block data
+Error on line 657 of zuncsd.f: Declaration error for u1: adjustable dimension on non-argument
+Error on line 657 of zuncsd.f: Declaration error for u2: adjustable dimension on non-argument
+Error on line 657 of zuncsd.f: Declaration error for x11: adjustable dimension on non-argument
+Error on line 657 of zuncsd.f: Declaration error for x12: adjustable dimension on non-argument
+Error on line 657 of zuncsd.f: Declaration error for x21: adjustable dimension on non-argument
+Error on line 657 of zuncsd.f: Declaration error for x22: adjustable dimension on non-argument
+Error on line 657 of zuncsd.f: Declaration error for v1t: adjustable dimension on non-argument
+Error on line 657 of zuncsd.f: Declaration error for v2t: adjustable dimension on non-argument
+Error on line 657 of zuncsd.f: Declaration error for work: adjustable dimension on non-argument
+Error on line 657 of zuncsd.f: Declaration error for theta: adjustable dimension on non-argument
+Error on line 657 of zuncsd.f: Declaration error for iwork: adjustable dimension on non-argument
+Error on line 657 of zuncsd.f: Declaration error for rwork: adjustable dimension on non-argument
+Error on line 657 of zuncsd.f: wr_ardecls:  nonconstant array size
+Error on line 657 of zuncsd.f: wr_ardecls:  nonconstant array size
+Error on line 657 of zuncsd.f: wr_ardecls:  nonconstant array size
+Error on line 657 of zuncsd.f: wr_ardecls:  nonconstant array size
+Error on line 657 of zuncsd.f: wr_ardecls:  nonconstant array size
+Error on line 657 of zuncsd.f: wr_ardecls:  nonconstant array size
+Error on line 657 of zuncsd.f: wr_ardecls:  nonconstant array size
+Error on line 657 of zuncsd.f: wr_ardecls:  nonconstant array size
+zung2l.f:
+   zung2l:
+zung2r.f:
+   zung2r:
+zungbr.f:
+   zungbr:
+zunghr.f:
+   zunghr:
+zungl2.f:
+   zungl2:
+zunglq.f:
+   zunglq:
+zungql.f:
+   zungql:
+zungqr.f:
+   zungqr:
+zungr2.f:
+   zungr2:
+zungrq.f:
+   zungrq:
+zungtr.f:
+   zungtr:
+zunm22.f:
+   zunm22:
+zunm2l.f:
+   zunm2l:
+zunm2r.f:
+   zunm2r:
+zunmbr.f:
+   zunmbr:
+zunmhr.f:
+   zunmhr:
+zunml2.f:
+   zunml2:
+zunmlq.f:
+   zunmlq:
+zunmql.f:
+   zunmql:
+zunmqr.f:
+   zunmqr:
+zunmr2.f:
+   zunmr2:
+zunmr3.f:
+   zunmr3:
+zunmrq.f:
+   zunmrq:
+zunmrz.f:
+   zunmrz:
+zunmtr.f:
+   zunmtr:
+zupgtr.f:
+   zupgtr:
+zupmtr.f:
+   zupmtr:
